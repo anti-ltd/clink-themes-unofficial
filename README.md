@@ -18,13 +18,13 @@ This unofficial repository includes:
 
 - **NuPhy Light**, a light Mechanical 3D theme with warm white caps and grey modifiers.
 - **NuPhy Dark**, a dark Mechanical 3D theme with charcoal caps and dark modifiers.
-- **Keychron Light**, a Mechanical 3D theme with white caps, slate modifiers, a charcoal case, and a teal plane toggle.
-- **Keychron Dark**, a matching dark variation with blue-grey caps, deep slate modifiers, and the same teal accent.
+- **Keychron Light**, a Mechanical 3D theme with pale caps and case, blue-grey modifiers, and coral-red accent keys.
+- **Keychron Dark**, a charcoal Mechanical 3D theme with blue-grey modifiers and coral-red accent keys, inspired by the reference keyboard.
 
 The NuPhy themes preserve Clink's debug palettes, including the teal plane toggle,
 red Return, yellow spacebar, visible mechanical edges, and active/pressed key colours.
 The Keychron themes use squarer sculpted caps, a spacebar matching the letter keys,
-and a slate Return. The teal plane toggle echoes the reference keyboard's Escape key;
+and a coral-red Return. The red plane toggle echoes the reference keyboard's Escape key;
 active modifiers and the backspace press use the same accent.
 These themes are not affiliated with or endorsed by NuPhy or Keychron.
 
