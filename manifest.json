@@ -126,7 +126,7 @@
           "r": 0.9411764705882353
         },
         "material": "3d",
-        "mechanicalInnerRadius": 18,
+        "mechanicalInnerRadius": 50,
         "mechanicalShowEdges": true,
         "name": "Keychron Dark",
         "specialKeyFill": {
@@ -146,7 +146,7 @@
       "asset": {
         "path": "keychron-dark.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/latest/keychron-dark.clinktheme",
-        "sha256": "f68c8e3a12bb1ffe2a5f8872d70a5ec6f835505472fd6e5db2eb24a44cbefed9",
+        "sha256": "6e349c32d0dc6ab09efc070efa6371fa16476f75347ed44081e9c17a9638bb8e",
         "byteCount": 2690
       }
     },
@@ -163,9 +163,9 @@
         },
         "background": {
           "a": 1,
-          "b": 0.8784313725490196,
-          "g": 0.8627450980392157,
-          "r": 0.8549019607843137
+          "b": 0.8352941176470589,
+          "g": 0.8392156862745098,
+          "r": 0.8392156862745098
         },
         "groupPaint": {
           "backspace": {
@@ -219,9 +219,9 @@
           "space": {
             "fill": {
               "a": 1,
-              "b": 0.9294117647058824,
-              "g": 0.9372549019607843,
-              "r": 0.9372549019607843
+              "b": 0.8627450980392157,
+              "g": 0.8705882352941177,
+              "r": 0.8705882352941177
             },
             "text": {
               "a": 1,
@@ -235,9 +235,9 @@
         "isDark": false,
         "keyFill": {
           "a": 1,
-          "b": 0.9294117647058824,
-          "g": 0.9372549019607843,
-          "r": 0.9372549019607843
+          "b": 0.8627450980392157,
+          "g": 0.8705882352941177,
+          "r": 0.8705882352941177
         },
         "keyFontWeight": "medium",
         "keyPaint": {
@@ -275,28 +275,28 @@
           "r": 0.20392156862745098
         },
         "material": "3d",
-        "mechanicalInnerRadius": 18,
+        "mechanicalInnerRadius": 50,
         "mechanicalShowEdges": true,
         "name": "Keychron Light",
         "specialKeyFill": {
           "a": 1,
-          "b": 0.5333333333333333,
-          "g": 0.44313725490196076,
-          "r": 0.396078431372549
+          "b": 0.7725490196078432,
+          "g": 0.7764705882352941,
+          "r": 0.7725490196078432
         },
         "specialKeyText": {
           "a": 1,
-          "b": 1.0,
-          "g": 1.0,
-          "r": 1.0
+          "b": 0.2235294117647059,
+          "g": 0.21176470588235294,
+          "r": 0.20392156862745098
         },
         "threeDVariant": "mechanical"
       },
       "asset": {
         "path": "keychron-light.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/latest/keychron-light.clinktheme",
-        "sha256": "e21315f3a090299d54e98cd6c25caf89f61c3c5e9392d6d2033fd24695aa430f",
-        "byteCount": 2688
+        "sha256": "7e44c972c1f13ad4879acecc0d030caf0286d8859a9e91d0bd6d7b276a569e75",
+        "byteCount": 2735
       }
     },
     {

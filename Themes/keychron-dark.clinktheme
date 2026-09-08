@@ -119,7 +119,7 @@
     "r": 0.9411764705882353
   },
   "material": "3d",
-  "mechanicalInnerRadius": 18,
+  "mechanicalInnerRadius": 50,
   "mechanicalShowEdges": true,
   "name": "Keychron Dark",
   "specialKeyFill": {
