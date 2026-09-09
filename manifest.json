@@ -1,10 +1,10 @@
 {
-  "version": "themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74",
+  "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
   "themes": [
     {
       "id": "akko-dark",
       "name": "Akko Dark",
-      "version": "themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74",
+      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
       "preview": {
         "accent": {
           "a": 1,
@@ -70,15 +70,15 @@
           "numbers": {
             "fill": {
               "a": 1,
-              "b": 0.8,
-              "g": 0.38823529411764707,
-              "r": 0.35294117647058826
+              "b": 0.27058823529411763,
+              "g": 0.1803921568627451,
+              "r": 0.16470588235294117
             },
             "text": {
               "a": 1,
-              "b": 1.0,
-              "g": 0.8901960784313725,
-              "r": 0.8745098039215686
+              "b": 0.9411764705882353,
+              "g": 0.8549019607843137,
+              "r": 0.8392156862745098
             }
           },
           "punctuation": {
@@ -146,62 +146,6 @@
         },
         "keyFontWeight": "semibold",
         "keyPaint": {
-          "c:5": {
-            "fill": {
-              "a": 1,
-              "b": 0.27058823529411763,
-              "g": 0.1803921568627451,
-              "r": 0.16470588235294117
-            },
-            "text": {
-              "a": 1,
-              "b": 0.9411764705882353,
-              "g": 0.8549019607843137,
-              "r": 0.8392156862745098
-            }
-          },
-          "c:6": {
-            "fill": {
-              "a": 1,
-              "b": 0.27058823529411763,
-              "g": 0.1803921568627451,
-              "r": 0.16470588235294117
-            },
-            "text": {
-              "a": 1,
-              "b": 0.9411764705882353,
-              "g": 0.8549019607843137,
-              "r": 0.8392156862745098
-            }
-          },
-          "c:7": {
-            "fill": {
-              "a": 1,
-              "b": 0.27058823529411763,
-              "g": 0.1803921568627451,
-              "r": 0.16470588235294117
-            },
-            "text": {
-              "a": 1,
-              "b": 0.9411764705882353,
-              "g": 0.8549019607843137,
-              "r": 0.8392156862745098
-            }
-          },
-          "c:8": {
-            "fill": {
-              "a": 1,
-              "b": 0.27058823529411763,
-              "g": 0.1803921568627451,
-              "r": 0.16470588235294117
-            },
-            "text": {
-              "a": 1,
-              "b": 0.9411764705882353,
-              "g": 0.8549019607843137,
-              "r": 0.8392156862745098
-            }
-          },
           "f:globe": {
             "activeFill": {
               "a": 1,
@@ -262,7 +206,7 @@
           "r": 0.8745098039215686
         },
         "material": "3d",
-        "mechanicalInnerRadius": 22,
+        "mechanicalInnerRadius": 42,
         "mechanicalShowEdges": true,
         "name": "Akko Dark",
         "specialKeyFill": {
@@ -281,15 +225,15 @@
       },
       "asset": {
         "path": "akko-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74/akko-dark.clinktheme",
-        "sha256": "5ad9fe3b61a7dace2b1a96b63bd5882a671d694d8558ba712ddfc54f7b0529d7",
-        "byteCount": 5806
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/akko-dark.clinktheme",
+        "sha256": "599a0736c23b9af6c15d602b0e2d0c115f05e8b05de60ce1598d23006c38bce4",
+        "byteCount": 4640
       }
     },
     {
       "id": "akko-light",
       "name": "Akko Light",
-      "version": "themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74",
+      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
       "preview": {
         "accent": {
           "a": 1,
@@ -355,15 +299,15 @@
           "numbers": {
             "fill": {
               "a": 1,
-              "b": 0.9098039215686274,
-              "g": 0.9450980392156862,
-              "r": 0.9568627450980393
+              "b": 0.6196078431372549,
+              "g": 0.3058823529411765,
+              "r": 0.27058823529411763
             },
             "text": {
               "a": 1,
-              "b": 0.3607843137254902,
-              "g": 0.16470588235294117,
-              "r": 0.13725490196078433
+              "b": 0.9803921568627451,
+              "g": 0.9529411764705882,
+              "r": 0.9490196078431372
             }
           },
           "punctuation": {
@@ -431,62 +375,6 @@
         },
         "keyFontWeight": "semibold",
         "keyPaint": {
-          "c:5": {
-            "fill": {
-              "a": 1,
-              "b": 0.6196078431372549,
-              "g": 0.3058823529411765,
-              "r": 0.27058823529411763
-            },
-            "text": {
-              "a": 1,
-              "b": 0.9803921568627451,
-              "g": 0.9529411764705882,
-              "r": 0.9490196078431372
-            }
-          },
-          "c:6": {
-            "fill": {
-              "a": 1,
-              "b": 0.6196078431372549,
-              "g": 0.3058823529411765,
-              "r": 0.27058823529411763
-            },
-            "text": {
-              "a": 1,
-              "b": 0.9803921568627451,
-              "g": 0.9529411764705882,
-              "r": 0.9490196078431372
-            }
-          },
-          "c:7": {
-            "fill": {
-              "a": 1,
-              "b": 0.6196078431372549,
-              "g": 0.3058823529411765,
-              "r": 0.27058823529411763
-            },
-            "text": {
-              "a": 1,
-              "b": 0.9803921568627451,
-              "g": 0.9529411764705882,
-              "r": 0.9490196078431372
-            }
-          },
-          "c:8": {
-            "fill": {
-              "a": 1,
-              "b": 0.6196078431372549,
-              "g": 0.3058823529411765,
-              "r": 0.27058823529411763
-            },
-            "text": {
-              "a": 1,
-              "b": 0.9803921568627451,
-              "g": 0.9529411764705882,
-              "r": 0.9490196078431372
-            }
-          },
           "f:globe": {
             "activeFill": {
               "a": 1,
@@ -547,7 +435,7 @@
           "r": 0.13725490196078433
         },
         "material": "3d",
-        "mechanicalInnerRadius": 22,
+        "mechanicalInnerRadius": 42,
         "mechanicalShowEdges": true,
         "name": "Akko Light",
         "specialKeyFill": {
@@ -566,15 +454,15 @@
       },
       "asset": {
         "path": "akko-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74/akko-light.clinktheme",
-        "sha256": "80258872d522d2c8b4515769785ef1c0abdcd7492f3aa15b277ab82819cf23ce",
-        "byteCount": 5950
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/akko-light.clinktheme",
+        "sha256": "b1b7dfd8eb813f2a604e84f2eee3b7fe531eb5419d80e32e903a7e0be839a356",
+        "byteCount": 4757
       }
     },
     {
       "id": "keychron-dark",
       "name": "Keychron Dark",
-      "version": "themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74",
+      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
       "preview": {
         "accent": {
           "a": 1,
@@ -715,7 +603,7 @@
       },
       "asset": {
         "path": "keychron-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74/keychron-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/keychron-dark.clinktheme",
         "sha256": "6e349c32d0dc6ab09efc070efa6371fa16476f75347ed44081e9c17a9638bb8e",
         "byteCount": 2690
       }
@@ -723,7 +611,7 @@
     {
       "id": "keychron-light",
       "name": "Keychron Light",
-      "version": "themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74",
+      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
       "preview": {
         "accent": {
           "a": 1,
@@ -864,7 +752,7 @@
       },
       "asset": {
         "path": "keychron-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74/keychron-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/keychron-light.clinktheme",
         "sha256": "7e44c972c1f13ad4879acecc0d030caf0286d8859a9e91d0bd6d7b276a569e75",
         "byteCount": 2735
       }
@@ -872,7 +760,7 @@
     {
       "id": "nuphy-dark",
       "name": "NuPhy Dark",
-      "version": "themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74",
+      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
       "preview": {
         "accent": {
           "a": 1,
@@ -1013,7 +901,7 @@
       },
       "asset": {
         "path": "nuphy-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74/nuphy-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/nuphy-dark.clinktheme",
         "sha256": "aab160253bab2410770580987f2b058977f15e7596d0190179cbad2e4b74b6e7",
         "byteCount": 2975
       }
@@ -1021,7 +909,7 @@
     {
       "id": "nuphy-light",
       "name": "NuPhy Light",
-      "version": "themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74",
+      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
       "preview": {
         "accent": {
           "a": 1,
@@ -1162,7 +1050,7 @@
       },
       "asset": {
         "path": "nuphy-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-046ac5417929a84e83e0c1cd997d023fc9915a1ac4728cd6a01bf3e4ee538b74/nuphy-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/nuphy-light.clinktheme",
         "sha256": "1c2eda3bf122960d59a880877f4dfbd13733b7ebc23ccf6d99c854521f6a01f2",
         "byteCount": 2813
       }

@@ -30,7 +30,7 @@ and a coral-red Return. The red plane toggle echoes the reference keyboard's Esc
 active modifiers and the backspace press use the same accent.
 The Akko themes use Canvas per-key paint: an amber plane toggle and Return echo the
 reference board's Escape and Enter caps, the globe key takes the arrow cluster's amber
-glyph on a dark cap, and 5–8 are painted dark to quote the board's function-row banding.
+glyph on a dark cap, and the whole number row is painted in the modifier colour.
 These themes are not affiliated with or endorsed by NuPhy, Keychron, or Akko.
 
 The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
