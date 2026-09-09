@@ -20,13 +20,18 @@ This unofficial repository includes:
 - **NuPhy Dark**, a dark Mechanical 3D theme with charcoal caps and dark modifiers.
 - **Keychron Light**, a Mechanical 3D theme with soft grey caps, a silver-grey case, neutral light-grey modifiers, and coral-red accent keys.
 - **Keychron Dark**, a charcoal Mechanical 3D theme with blue-grey modifiers and coral-red accent keys, inspired by the reference keyboard.
+- **Akko Dark**, a navy Mechanical 3D theme with periwinkle caps, charcoal modifiers, and amber accent keys.
+- **Akko Light**, a cream-cap Mechanical 3D theme with indigo modifiers and amber accent keys.
 
 The NuPhy themes preserve Clink's debug palettes, including the teal plane toggle,
 red Return, yellow spacebar, visible mechanical edges, and active/pressed key colours.
 The Keychron themes use softly rounded sculpted caps, a spacebar matching the letter keys,
 and a coral-red Return. The red plane toggle echoes the reference keyboard's Escape key;
 active modifiers and the backspace press use the same accent.
-These themes are not affiliated with or endorsed by NuPhy or Keychron.
+The Akko themes use Canvas per-key paint: an amber plane toggle and Return echo the
+reference board's Escape and Enter caps, the globe key takes the arrow cluster's amber
+glyph on a dark cap, and 5–8 are painted dark to quote the board's function-row banding.
+These themes are not affiliated with or endorsed by NuPhy, Keychron, or Akko.
 
 The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
 
@@ -46,7 +51,7 @@ You do not need to build Clink or write a manifest.
    python3 -m json.tool manifest.json >/dev/null
    ```
 
-7. Push to `main`. GitHub Actions publishes the themes and manifest to the `latest` release.
+7. Push to `main`. GitHub Actions publishes a versioned release and marks it as the latest release.
 
 ## Add your repository to Clink
 
@@ -78,6 +83,13 @@ Adding a repository is a trust decision. Only add repositories whose release con
 
 ## Publishing is automatic
 
-Keep `Themes/`, `tools/`, and `.github/workflows/` in your fork. Add or update a theme, regenerate the manifest, and push to `main`. GitHub Actions rebuilds the manifest and refreshes the `latest` release so Clink can download them.
+Keep `Themes/`, `tools/`, `tests/`, and `.github/workflows/` in your fork. Add or update a theme, regenerate the manifest, and push to `main`. GitHub Actions runs the manifest tests, builds the manifest, and publishes a versioned release so Clink can download the themes.
+
+Release tags are derived from the theme files' contents. Each manifest points to
+the exact version it describes; published assets and previous releases are kept.
+This prevents cached previews or manifests from downloading replacement files
+with different checksums. Clink still discovers updates through GitHub's
+`releases/latest/download/manifest.json` address. Do not delete older releases,
+including the original `latest` tag, while clients may still have their manifests.
 
 Local manifest builds default to `anti-ltd/clink-themes-unofficial`. For a fork, set `GITHUB_REPOSITORY=owner/repository` when running the builder. GitHub Actions uses the actual repository name automatically.
