@@ -22,6 +22,8 @@ This unofficial repository includes:
 - **Keychron Dark**, a charcoal Mechanical 3D theme with blue-grey modifiers and coral-red accent keys, inspired by the reference keyboard.
 - **Akko Dark**, a navy Mechanical 3D theme with periwinkle caps, charcoal modifiers, and amber accent keys.
 - **Akko Light**, a cream-cap Mechanical 3D theme with indigo modifiers and amber accent keys.
+- **Lofree Light**, a warm greige retro Mechanical 3D theme with ivory caps, taupe modifiers, and burnt-orange accent keys.
+- **Lofree Dark**, a warm charcoal Mechanical 3D theme with graphite caps, near-black modifiers, and burnt-orange accent keys.
 
 The NuPhy themes preserve Clink's debug palettes, including the teal plane toggle,
 red Return, yellow spacebar, visible mechanical edges, and active/pressed key colours.
@@ -31,7 +33,11 @@ active modifiers and the backspace press use the same accent.
 The Akko themes use Canvas per-key paint: an amber plane toggle and Return echo the
 reference board's Escape and Enter caps, the globe key takes the arrow cluster's amber
 glyph on a dark cap, and the whole number row is painted in the modifier colour.
-These themes are not affiliated with or endorsed by NuPhy, Keychron, or Akko.
+The Lofree themes follow the retro typewriter boards: a greige or charcoal case, sculpted
+warm caps, a spacebar a shade brighter than the letters, and two burnt-orange caps for the
+globe and plane toggle that echo the reference board's orange knobs. Return keeps its cap
+colour and takes an orange glyph, matching the reference board's red Enter arrow.
+These themes are not affiliated with or endorsed by NuPhy, Keychron, Akko, or Lofree.
 
 The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
 

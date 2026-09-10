@@ -1,10 +1,10 @@
 {
-  "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
+  "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
   "themes": [
     {
       "id": "akko-dark",
       "name": "Akko Dark",
-      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
+      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
       "preview": {
         "accent": {
           "a": 1,
@@ -225,7 +225,7 @@
       },
       "asset": {
         "path": "akko-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/akko-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/akko-dark.clinktheme",
         "sha256": "599a0736c23b9af6c15d602b0e2d0c115f05e8b05de60ce1598d23006c38bce4",
         "byteCount": 4640
       }
@@ -233,7 +233,7 @@
     {
       "id": "akko-light",
       "name": "Akko Light",
-      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
+      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
       "preview": {
         "accent": {
           "a": 1,
@@ -454,7 +454,7 @@
       },
       "asset": {
         "path": "akko-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/akko-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/akko-light.clinktheme",
         "sha256": "b1b7dfd8eb813f2a604e84f2eee3b7fe531eb5419d80e32e903a7e0be839a356",
         "byteCount": 4757
       }
@@ -462,7 +462,7 @@
     {
       "id": "keychron-dark",
       "name": "Keychron Dark",
-      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
+      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
       "preview": {
         "accent": {
           "a": 1,
@@ -603,7 +603,7 @@
       },
       "asset": {
         "path": "keychron-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/keychron-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/keychron-dark.clinktheme",
         "sha256": "6e349c32d0dc6ab09efc070efa6371fa16476f75347ed44081e9c17a9638bb8e",
         "byteCount": 2690
       }
@@ -611,7 +611,7 @@
     {
       "id": "keychron-light",
       "name": "Keychron Light",
-      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
+      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
       "preview": {
         "accent": {
           "a": 1,
@@ -752,15 +752,365 @@
       },
       "asset": {
         "path": "keychron-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/keychron-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/keychron-light.clinktheme",
         "sha256": "7e44c972c1f13ad4879acecc0d030caf0286d8859a9e91d0bd6d7b276a569e75",
         "byteCount": 2735
       }
     },
     {
+      "id": "lofree-dark",
+      "name": "Lofree Dark",
+      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.16470588235294117,
+          "g": 0.4,
+          "r": 0.9490196078431372
+        },
+        "background": {
+          "a": 1,
+          "b": 0.14901960784313725,
+          "g": 0.16470588235294117,
+          "r": 0.16862745098039217
+        },
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.4,
+              "r": 0.9490196078431372
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.4,
+              "r": 0.9490196078431372
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.4,
+              "r": 0.9490196078431372
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.25882352941176473,
+              "g": 0.2823529411764706,
+              "r": 0.29411764705882354
+            },
+            "text": {
+              "a": 1,
+              "b": 0.34901960784313724,
+              "g": 0.5686274509803921,
+              "r": 1.0
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.29411764705882354,
+              "g": 0.3215686274509804,
+              "r": 0.3333333333333333
+            },
+            "text": {
+              "a": 1,
+              "b": 0.8549019607843137,
+              "g": 0.9019607843137255,
+              "r": 0.9176470588235294
+            }
+          }
+        },
+        "id": "lofree-dark",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.25882352941176473,
+          "g": 0.2823529411764706,
+          "r": 0.29411764705882354
+        },
+        "keyFontWeight": "medium",
+        "keyPaint": {
+          "f:globe": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.4,
+              "r": 0.9490196078431372
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.4,
+              "r": 0.9490196078431372
+            },
+            "text": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            }
+          },
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.4,
+              "r": 0.9490196078431372
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.4,
+              "r": 0.9490196078431372
+            },
+            "text": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            }
+          }
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.8549019607843137,
+          "g": 0.9019607843137255,
+          "r": 0.9176470588235294
+        },
+        "material": "3d",
+        "mechanicalInnerRadius": 46,
+        "mechanicalShowEdges": true,
+        "name": "Lofree Dark",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.2,
+          "r": 0.20784313725490197
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7058823529411765,
+          "g": 0.7607843137254902,
+          "r": 0.7803921568627451
+        },
+        "threeDVariant": "mechanical"
+      },
+      "asset": {
+        "path": "lofree-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/lofree-dark.clinktheme",
+        "sha256": "43a79a2bde6409098689062288e10bfad61e4c2dc369e6a5aceb3605d829a964",
+        "byteCount": 3418
+      }
+    },
+    {
+      "id": "lofree-light",
+      "name": "Lofree Light",
+      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.3333333333333333,
+          "r": 0.8941176470588236
+        },
+        "background": {
+          "a": 1,
+          "b": 0.7137254901960784,
+          "g": 0.7529411764705882,
+          "r": 0.7647058823529411
+        },
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.10980392156862745,
+              "g": 0.3333333333333333,
+              "r": 0.8941176470588236
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.10980392156862745,
+              "g": 0.3333333333333333,
+              "r": 0.8941176470588236
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.10980392156862745,
+              "g": 0.3333333333333333,
+              "r": 0.8941176470588236
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.8549019607843137,
+              "g": 0.8980392156862745,
+              "r": 0.9137254901960784
+            },
+            "text": {
+              "a": 1,
+              "b": 0.058823529411764705,
+              "g": 0.2196078431372549,
+              "r": 0.6588235294117647
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.8980392156862745,
+              "g": 0.9372549019607843,
+              "r": 0.9490196078431372
+            },
+            "text": {
+              "a": 1,
+              "b": 0.2,
+              "g": 0.2196078431372549,
+              "r": 0.23137254901960785
+            }
+          }
+        },
+        "id": "lofree-light",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.8549019607843137,
+          "g": 0.8980392156862745,
+          "r": 0.9137254901960784
+        },
+        "keyFontWeight": "medium",
+        "keyPaint": {
+          "f:globe": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.10980392156862745,
+              "g": 0.3333333333333333,
+              "r": 0.8941176470588236
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.10980392156862745,
+              "g": 0.3333333333333333,
+              "r": 0.8941176470588236
+            },
+            "text": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            }
+          },
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.10980392156862745,
+              "g": 0.3333333333333333,
+              "r": 0.8941176470588236
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.10980392156862745,
+              "g": 0.3333333333333333,
+              "r": 0.8941176470588236
+            },
+            "text": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.12156862745098039,
+              "r": 0.1411764705882353
+            }
+          }
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.2,
+          "g": 0.2196078431372549,
+          "r": 0.23137254901960785
+        },
+        "material": "3d",
+        "mechanicalInnerRadius": 46,
+        "mechanicalShowEdges": true,
+        "name": "Lofree Light",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.611764705882353,
+          "g": 0.6627450980392157,
+          "r": 0.6784313725490196
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.12941176470588237,
+          "g": 0.14901960784313725,
+          "r": 0.1607843137254902
+        },
+        "threeDVariant": "mechanical"
+      },
+      "asset": {
+        "path": "lofree-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/lofree-light.clinktheme",
+        "sha256": "63580ea06b48244aa7c8589f4ef754eda53fcab155dcc95d7229ee912638d774",
+        "byteCount": 3536
+      }
+    },
+    {
       "id": "nuphy-dark",
       "name": "NuPhy Dark",
-      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
+      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
       "preview": {
         "accent": {
           "a": 1,
@@ -901,7 +1251,7 @@
       },
       "asset": {
         "path": "nuphy-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/nuphy-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/nuphy-dark.clinktheme",
         "sha256": "aab160253bab2410770580987f2b058977f15e7596d0190179cbad2e4b74b6e7",
         "byteCount": 2975
       }
@@ -909,7 +1259,7 @@
     {
       "id": "nuphy-light",
       "name": "NuPhy Light",
-      "version": "themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb",
+      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
       "preview": {
         "accent": {
           "a": 1,
@@ -1050,7 +1400,7 @@
       },
       "asset": {
         "path": "nuphy-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-3ce33fedeafb6de320de06bf9901b5e6007252f614a985aebdd73a561f9f4bdb/nuphy-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/nuphy-light.clinktheme",
         "sha256": "1c2eda3bf122960d59a880877f4dfbd13733b7ebc23ccf6d99c854521f6a01f2",
         "byteCount": 2813
       }
