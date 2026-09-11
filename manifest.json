@@ -1,10 +1,10 @@
 {
-  "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+  "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
   "themes": [
     {
       "id": "akko-dark",
       "name": "Akko Dark",
-      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
       "preview": {
         "accent": {
           "a": 1,
@@ -225,7 +225,7 @@
       },
       "asset": {
         "path": "akko-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/akko-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/akko-dark.clinktheme",
         "sha256": "599a0736c23b9af6c15d602b0e2d0c115f05e8b05de60ce1598d23006c38bce4",
         "byteCount": 4640
       }
@@ -233,7 +233,7 @@
     {
       "id": "akko-light",
       "name": "Akko Light",
-      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
       "preview": {
         "accent": {
           "a": 1,
@@ -454,7 +454,7 @@
       },
       "asset": {
         "path": "akko-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/akko-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/akko-light.clinktheme",
         "sha256": "b1b7dfd8eb813f2a604e84f2eee3b7fe531eb5419d80e32e903a7e0be839a356",
         "byteCount": 4757
       }
@@ -462,7 +462,7 @@
     {
       "id": "keychron-dark",
       "name": "Keychron Dark",
-      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
       "preview": {
         "accent": {
           "a": 1,
@@ -603,7 +603,7 @@
       },
       "asset": {
         "path": "keychron-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/keychron-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/keychron-dark.clinktheme",
         "sha256": "6e349c32d0dc6ab09efc070efa6371fa16476f75347ed44081e9c17a9638bb8e",
         "byteCount": 2690
       }
@@ -611,7 +611,7 @@
     {
       "id": "keychron-light",
       "name": "Keychron Light",
-      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
       "preview": {
         "accent": {
           "a": 1,
@@ -752,7 +752,7 @@
       },
       "asset": {
         "path": "keychron-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/keychron-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/keychron-light.clinktheme",
         "sha256": "7e44c972c1f13ad4879acecc0d030caf0286d8859a9e91d0bd6d7b276a569e75",
         "byteCount": 2735
       }
@@ -760,7 +760,7 @@
     {
       "id": "lofree-dark",
       "name": "Lofree Dark",
-      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
       "preview": {
         "accent": {
           "a": 1,
@@ -927,7 +927,7 @@
       },
       "asset": {
         "path": "lofree-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/lofree-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/lofree-dark.clinktheme",
         "sha256": "43a79a2bde6409098689062288e10bfad61e4c2dc369e6a5aceb3605d829a964",
         "byteCount": 3418
       }
@@ -935,7 +935,7 @@
     {
       "id": "lofree-light",
       "name": "Lofree Light",
-      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
       "preview": {
         "accent": {
           "a": 1,
@@ -1102,7 +1102,7 @@
       },
       "asset": {
         "path": "lofree-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/lofree-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/lofree-light.clinktheme",
         "sha256": "63580ea06b48244aa7c8589f4ef754eda53fcab155dcc95d7229ee912638d774",
         "byteCount": 3536
       }
@@ -1110,7 +1110,7 @@
     {
       "id": "nuphy-dark",
       "name": "NuPhy Dark",
-      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
       "preview": {
         "accent": {
           "a": 1,
@@ -1251,7 +1251,7 @@
       },
       "asset": {
         "path": "nuphy-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/nuphy-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/nuphy-dark.clinktheme",
         "sha256": "aab160253bab2410770580987f2b058977f15e7596d0190179cbad2e4b74b6e7",
         "byteCount": 2975
       }
@@ -1259,7 +1259,7 @@
     {
       "id": "nuphy-light",
       "name": "NuPhy Light",
-      "version": "themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
       "preview": {
         "accent": {
           "a": 1,
@@ -1400,9 +1400,359 @@
       },
       "asset": {
         "path": "nuphy-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-142735aa32330ea09561a8dec02458ce499f9bb51f3c14b0bdcd5fd51916c922/nuphy-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/nuphy-light.clinktheme",
         "sha256": "1c2eda3bf122960d59a880877f4dfbd13733b7ebc23ccf6d99c854521f6a01f2",
         "byteCount": 2813
+      }
+    },
+    {
+      "id": "wooting-dark",
+      "name": "Wooting Dark",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.0392156862745098,
+          "g": 0.615686274509804,
+          "r": 1.0
+        },
+        "background": {
+          "a": 1,
+          "b": 0.0784313725490196,
+          "g": 0.0784313725490196,
+          "r": 0.0784313725490196
+        },
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.615686274509804,
+              "r": 1.0
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.615686274509804,
+              "r": 1.0
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.615686274509804,
+              "r": 1.0
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.13725490196078433,
+              "g": 0.13725490196078433,
+              "r": 0.13725490196078433
+            },
+            "text": {
+              "a": 1,
+              "b": 0.6588235294117647,
+              "g": 0.6588235294117647,
+              "r": 0.6588235294117647
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.1607843137254902,
+              "g": 0.1607843137254902,
+              "r": 0.1607843137254902
+            },
+            "text": {
+              "a": 1,
+              "b": 0.7843137254901961,
+              "g": 0.7843137254901961,
+              "r": 0.7843137254901961
+            }
+          }
+        },
+        "id": "wooting-dark",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.1803921568627451,
+          "r": 0.1803921568627451
+        },
+        "keyFontWeight": "medium",
+        "keyPaint": {
+          "f:globe": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.615686274509804,
+              "r": 1.0
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.13725490196078433,
+              "g": 0.13725490196078433,
+              "r": 0.13725490196078433
+            },
+            "text": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.615686274509804,
+              "r": 1.0
+            }
+          },
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.615686274509804,
+              "r": 1.0
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.615686274509804,
+              "r": 1.0
+            },
+            "text": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            }
+          }
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.7843137254901961,
+          "g": 0.7843137254901961,
+          "r": 0.7843137254901961
+        },
+        "material": "3d",
+        "mechanicalInnerRadius": 32,
+        "mechanicalShowEdges": true,
+        "name": "Wooting Dark",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.13725490196078433,
+          "g": 0.13725490196078433,
+          "r": 0.13725490196078433
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.6588235294117647,
+          "g": 0.6588235294117647,
+          "r": 0.6588235294117647
+        },
+        "threeDVariant": "mechanical"
+      },
+      "asset": {
+        "path": "wooting-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/wooting-dark.clinktheme",
+        "sha256": "ea6c113ccd8c972c722d5ee4b26ddb3102bac388d659921d1fc2a0967e062fa8",
+        "byteCount": 3431
+      }
+    },
+    {
+      "id": "wooting-light",
+      "name": "Wooting Light",
+      "version": "themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.0,
+          "g": 0.5098039215686274,
+          "r": 0.9019607843137255
+        },
+        "background": {
+          "a": 1,
+          "b": 0.807843137254902,
+          "g": 0.807843137254902,
+          "r": 0.807843137254902
+        },
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.0,
+              "g": 0.5098039215686274,
+              "r": 0.9019607843137255
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.0,
+              "g": 0.5098039215686274,
+              "r": 0.9019607843137255
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.0,
+              "g": 0.5098039215686274,
+              "r": 0.9019607843137255
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.7450980392156863,
+              "g": 0.7450980392156863,
+              "r": 0.7450980392156863
+            },
+            "text": {
+              "a": 1,
+              "b": 0.13725490196078433,
+              "g": 0.13725490196078433,
+              "r": 0.13725490196078433
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.9803921568627451,
+              "g": 0.9803921568627451,
+              "r": 0.9803921568627451
+            },
+            "text": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.16470588235294117,
+              "r": 0.16470588235294117
+            }
+          }
+        },
+        "id": "wooting-light",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9568627450980393,
+          "g": 0.9568627450980393,
+          "r": 0.9568627450980393
+        },
+        "keyFontWeight": "medium",
+        "keyPaint": {
+          "f:globe": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.0,
+              "g": 0.5098039215686274,
+              "r": 0.9019607843137255
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.7450980392156863,
+              "g": 0.7450980392156863,
+              "r": 0.7450980392156863
+            },
+            "text": {
+              "a": 1,
+              "b": 0.0,
+              "g": 0.2627450980392157,
+              "r": 0.47843137254901963
+            }
+          },
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.0,
+              "g": 0.5098039215686274,
+              "r": 0.9019607843137255
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.0,
+              "g": 0.5098039215686274,
+              "r": 0.9019607843137255
+            },
+            "text": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.0784313725490196,
+              "r": 0.10196078431372549
+            }
+          }
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.16470588235294117,
+          "g": 0.16470588235294117,
+          "r": 0.16470588235294117
+        },
+        "material": "3d",
+        "mechanicalInnerRadius": 32,
+        "mechanicalShowEdges": true,
+        "name": "Wooting Light",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7450980392156863,
+          "g": 0.7450980392156863,
+          "r": 0.7450980392156863
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.13725490196078433,
+          "g": 0.13725490196078433,
+          "r": 0.13725490196078433
+        },
+        "threeDVariant": "mechanical"
+      },
+      "asset": {
+        "path": "wooting-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-9bbd0b2c728fd2c45b122d44fb47fed8c08541cd877a75e6ed68a6d568715819/wooting-light.clinktheme",
+        "sha256": "223c9c0eb4fc1ad55da7065d5d50cfafc31b0cb2dfed35a1197a2ec138be4350",
+        "byteCount": 3443
       }
     }
   ]

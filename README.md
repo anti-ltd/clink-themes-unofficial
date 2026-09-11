@@ -24,6 +24,8 @@ This unofficial repository includes:
 - **Akko Light**, a cream-cap Mechanical 3D theme with indigo modifiers and amber accent keys.
 - **Lofree Light**, a warm greige retro Mechanical 3D theme with ivory caps, taupe modifiers, and burnt-orange accent keys.
 - **Lofree Dark**, a warm charcoal Mechanical 3D theme with graphite caps, near-black modifiers, and burnt-orange accent keys.
+- **Wooting Light**, a neutral light-grey Mechanical 3D theme with white caps, mid-grey modifiers, and amber accent keys.
+- **Wooting Dark**, a stealth-black Mechanical 3D theme with charcoal caps, near-black modifiers, and amber accent keys.
 
 The NuPhy themes preserve Clink's debug palettes, including the teal plane toggle,
 red Return, yellow spacebar, visible mechanical edges, and active/pressed key colours.
@@ -37,7 +39,12 @@ The Lofree themes follow the retro typewriter boards: a greige or charcoal case,
 warm caps, a spacebar a shade brighter than the letters, and two burnt-orange caps for the
 globe and plane toggle that echo the reference board's orange knobs. Return keeps its cap
 colour and takes an orange glyph, matching the reference board's red Enter arrow.
-These themes are not affiliated with or endorsed by NuPhy, Keychron, Akko, or Lofree.
+The Wooting themes are deliberately monochrome: a neutral case and caps with no warmth,
+squarer cap corners, and muted grey legends, so the amber appears only where the reference
+board lights up. The plane toggle takes the amber cap in the Escape position, the globe key
+an amber glyph on a modifier cap, and Return stays in the modifier colour until it is
+pressed, when it and the active modifiers and backspace press all turn amber.
+These themes are not affiliated with or endorsed by NuPhy, Keychron, Akko, Lofree, or Wooting.
 
 The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
 
