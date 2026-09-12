@@ -81,8 +81,6 @@ Theme titles follow the repository’s existing brand + Light/Dark naming conven
 
 These themes are unofficial interpretations and are not affiliated with or endorsed by any of the named brands.
 
-See the [light/dark palette sheets and validation notes](docs/brand-review.md) for the 25 new pairs.
-
 The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
 
 ## Make your first theme
