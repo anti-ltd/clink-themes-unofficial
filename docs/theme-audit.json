@@ -1,0 +1,255 @@
+{
+  "scope": "50 new theme files; base RGBA contrast against declared backgrounds, including active states. Native materials can change rendered contrast.",
+  "themes": [
+    {
+      "id": "8bitdo-dark",
+      "minimumBaseContrast": 4.62,
+      "below4_5": []
+    },
+    {
+      "id": "8bitdo-light",
+      "minimumBaseContrast": 5.59,
+      "below4_5": []
+    },
+    {
+      "id": "angry-miao-dark",
+      "minimumBaseContrast": 8.72,
+      "below4_5": []
+    },
+    {
+      "id": "angry-miao-light",
+      "minimumBaseContrast": 7.56,
+      "below4_5": []
+    },
+    {
+      "id": "apple-dark",
+      "minimumBaseContrast": 8.35,
+      "below4_5": []
+    },
+    {
+      "id": "apple-light",
+      "minimumBaseContrast": 4.78,
+      "below4_5": []
+    },
+    {
+      "id": "cooler-master-dark",
+      "minimumBaseContrast": 5.88,
+      "below4_5": []
+    },
+    {
+      "id": "cooler-master-light",
+      "minimumBaseContrast": 5.62,
+      "below4_5": []
+    },
+    {
+      "id": "corsair-dark",
+      "minimumBaseContrast": 12.46,
+      "below4_5": []
+    },
+    {
+      "id": "corsair-light",
+      "minimumBaseContrast": 11.56,
+      "below4_5": []
+    },
+    {
+      "id": "drop-dark",
+      "minimumBaseContrast": 9.53,
+      "below4_5": []
+    },
+    {
+      "id": "drop-light",
+      "minimumBaseContrast": 7.63,
+      "below4_5": []
+    },
+    {
+      "id": "ducky-dark",
+      "minimumBaseContrast": 9.41,
+      "below4_5": []
+    },
+    {
+      "id": "ducky-light",
+      "minimumBaseContrast": 7.7,
+      "below4_5": []
+    },
+    {
+      "id": "epomaker-dark",
+      "minimumBaseContrast": 6.82,
+      "below4_5": []
+    },
+    {
+      "id": "epomaker-light",
+      "minimumBaseContrast": 7.06,
+      "below4_5": []
+    },
+    {
+      "id": "glorious-dark",
+      "minimumBaseContrast": 7.37,
+      "below4_5": []
+    },
+    {
+      "id": "glorious-light",
+      "minimumBaseContrast": 6.87,
+      "below4_5": []
+    },
+    {
+      "id": "hhkb-dark",
+      "minimumBaseContrast": 4.77,
+      "below4_5": []
+    },
+    {
+      "id": "hhkb-light",
+      "minimumBaseContrast": 5.98,
+      "below4_5": []
+    },
+    {
+      "id": "higround-dark",
+      "minimumBaseContrast": 6.35,
+      "below4_5": []
+    },
+    {
+      "id": "higround-light",
+      "minimumBaseContrast": 9.14,
+      "below4_5": []
+    },
+    {
+      "id": "iqunix-dark",
+      "minimumBaseContrast": 7.94,
+      "below4_5": []
+    },
+    {
+      "id": "iqunix-light",
+      "minimumBaseContrast": 5.2,
+      "below4_5": []
+    },
+    {
+      "id": "kiiboom-dark",
+      "minimumBaseContrast": 7.25,
+      "below4_5": []
+    },
+    {
+      "id": "kiiboom-light",
+      "minimumBaseContrast": 4.73,
+      "below4_5": []
+    },
+    {
+      "id": "leopold-dark",
+      "minimumBaseContrast": 7.56,
+      "below4_5": []
+    },
+    {
+      "id": "leopold-light",
+      "minimumBaseContrast": 4.69,
+      "below4_5": []
+    },
+    {
+      "id": "logitech-g-dark",
+      "minimumBaseContrast": 7.4,
+      "below4_5": []
+    },
+    {
+      "id": "logitech-g-light",
+      "minimumBaseContrast": 4.63,
+      "below4_5": []
+    },
+    {
+      "id": "melgeek-dark",
+      "minimumBaseContrast": 4.78,
+      "below4_5": []
+    },
+    {
+      "id": "melgeek-light",
+      "minimumBaseContrast": 6.86,
+      "below4_5": []
+    },
+    {
+      "id": "mode-dark",
+      "minimumBaseContrast": 5.04,
+      "below4_5": []
+    },
+    {
+      "id": "mode-light",
+      "minimumBaseContrast": 5.23,
+      "below4_5": []
+    },
+    {
+      "id": "monsgeek-dark",
+      "minimumBaseContrast": 6.57,
+      "below4_5": []
+    },
+    {
+      "id": "monsgeek-light",
+      "minimumBaseContrast": 4.98,
+      "below4_5": []
+    },
+    {
+      "id": "niz-dark",
+      "minimumBaseContrast": 9.42,
+      "below4_5": []
+    },
+    {
+      "id": "niz-light",
+      "minimumBaseContrast": 11.58,
+      "below4_5": []
+    },
+    {
+      "id": "novelkeys-dark",
+      "minimumBaseContrast": 5.07,
+      "below4_5": []
+    },
+    {
+      "id": "novelkeys-light",
+      "minimumBaseContrast": 7.94,
+      "below4_5": []
+    },
+    {
+      "id": "qwertykeys-dark",
+      "minimumBaseContrast": 5.71,
+      "below4_5": []
+    },
+    {
+      "id": "qwertykeys-light",
+      "minimumBaseContrast": 5.08,
+      "below4_5": []
+    },
+    {
+      "id": "razer-dark",
+      "minimumBaseContrast": 7.48,
+      "below4_5": []
+    },
+    {
+      "id": "razer-light",
+      "minimumBaseContrast": 8.97,
+      "below4_5": []
+    },
+    {
+      "id": "rog-dark",
+      "minimumBaseContrast": 4.51,
+      "below4_5": []
+    },
+    {
+      "id": "rog-light",
+      "minimumBaseContrast": 4.72,
+      "below4_5": []
+    },
+    {
+      "id": "steelseries-dark",
+      "minimumBaseContrast": 7.23,
+      "below4_5": []
+    },
+    {
+      "id": "steelseries-light",
+      "minimumBaseContrast": 6.36,
+      "below4_5": []
+    },
+    {
+      "id": "varmilo-dark",
+      "minimumBaseContrast": 6.15,
+      "below4_5": []
+    },
+    {
+      "id": "varmilo-light",
+      "minimumBaseContrast": 6.69,
+      "below4_5": []
+    }
+  ]
+}

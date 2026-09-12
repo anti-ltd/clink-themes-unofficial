@@ -44,7 +44,44 @@ squarer cap corners, and muted grey legends, so the amber appears only where the
 board lights up. The plane toggle takes the amber cap in the Escape position, the globe key
 an amber glyph on a modifier cap, and Return stays in the modifier colour until it is
 pressed, when it and the active modifiers and backspace press all turn amber.
-These themes are not affiliated with or endorsed by NuPhy, Keychron, Akko, Lofree, or Wooting.
+The collection now contains **30 brands, each with Light and Dark variants (60 themes)**.
+The original five pairs above are preserved. The remaining pairs are:
+
+| Brand | Design | Variants |
+| --- | --- | --- |
+| Ducky | Navy modifiers, crisp white caps and cyan Escape/Return. | [Light](Themes/ducky-light.clinktheme) · [Dark](Themes/ducky-dark.clinktheme) |
+| HHKB | Minimal warm caps; a single red plane-toggle cap, with neutral active modifiers. | [Light](Themes/hhkb-light.clinktheme) · [Dark](Themes/hhkb-dark.clinktheme) |
+| Logitech G | Graphite modifiers, cyan controls and a restrained blue WASD cluster. | [Light](Themes/logitech-g-light.clinktheme) · [Dark](Themes/logitech-g-dark.clinktheme) |
+| Razer | Matte caps, green Escape/Return and green-tinted WASD. | [Light](Themes/razer-light.clinktheme) · [Dark](Themes/razer-dark.clinktheme) |
+| SteelSeries | Graphite caps and orange controls over a narrow violet/orange case gradient. | [Light](Themes/steelseries-light.clinktheme) · [Dark](Themes/steelseries-dark.clinktheme) |
+| ROG | Angular sculpted caps, red controls and a magenta WASD cluster. | [Light](Themes/rog-light.clinktheme) · [Dark](Themes/rog-dark.clinktheme) |
+| Corsair | Square industrial caps, yellow controls and a dark number row. | [Light](Themes/corsair-light.clinktheme) · [Dark](Themes/corsair-dark.clinktheme) |
+| Glorious | Clean monochrome caps with gold controls and a gold spacebar legend. | [Light](Themes/glorious-light.clinktheme) · [Dark](Themes/glorious-dark.clinktheme) |
+| MelGeek | Cream, orange and blue; alternating number caps and a blue letter island. | [Light](Themes/melgeek-light.clinktheme) · [Dark](Themes/melgeek-dark.clinktheme) |
+| Mode | Machined metal caps, a charcoal Return and restrained brass legends. | [Light](Themes/mode-light.clinktheme) · [Dark](Themes/mode-dark.clinktheme) |
+| Qwertykeys | Cream and forest green with sage numbers and a sage spacebar. | [Light](Themes/qwertykeys-light.clinktheme) · [Dark](Themes/qwertykeys-dark.clinktheme) |
+| MonsGeek | Dark aluminium, black modifiers and purple controls; metallic cap finish. | [Light](Themes/monsgeek-light.clinktheme) · [Dark](Themes/monsgeek-dark.clinktheme) |
+| Epomaker | Cream caps, pastel teal modifiers, coral controls and a teal number row. | [Light](Themes/epomaker-light.clinktheme) · [Dark](Themes/epomaker-dark.clinktheme) |
+| Drop | Gunmetal caps, cyan/teal controls and a matching dark number row. | [Light](Themes/drop-light.clinktheme) · [Dark](Themes/drop-dark.clinktheme) |
+| Higround | Full per-key acid-lime/teal contour bands across a black foundation; pale bands expand in light mode. | [Light](Themes/higround-light.clinktheme) · [Dark](Themes/higround-dark.clinktheme) |
+| 8BitDo | NES greys, red plane toggle and Return, plus a dark number row and mono legends. | [Light](Themes/8bitdo-light.clinktheme) · [Dark](Themes/8bitdo-dark.clinktheme) |
+| Cooler Master | Black and aubergine with violet controls and a subtle purple case gradient. | [Light](Themes/cooler-master-light.clinktheme) · [Dark](Themes/cooler-master-dark.clinktheme) |
+| Leopold | Traditional beige/grey caps, muted blue controls and grey numbers. | [Light](Themes/leopold-light.clinktheme) · [Dark](Themes/leopold-dark.clinktheme) |
+| Varmilo | Botanical green caps with diagonal sage leaf clusters and scattered pink/lilac petals. | [Light](Themes/varmilo-light.clinktheme) · [Dark](Themes/varmilo-dark.clinktheme) |
+| NIZ | Minimal white and powder blue; cool slate in dark mode with low-key blue controls. | [Light](Themes/niz-light.clinktheme) · [Dark](Themes/niz-dark.clinktheme) |
+| KiiBOOM | Clear or smoked glass lenses with purple/cyan refraction over a luminous gradient. | [Light](Themes/kiiboom-light.clinktheme) · [Dark](Themes/kiiboom-dark.clinktheme) |
+| Angry Miao | Metallic silver caps, black modifiers and a neon navigation cluster with cyan detail. | [Light](Themes/angry-miao-light.clinktheme) · [Dark](Themes/angry-miao-dark.clinktheme) |
+| IQUNIX | Aluminium-grey case, cream caps, orange controls and grey number caps. | [Light](Themes/iqunix-light.clinktheme) · [Dark](Themes/iqunix-dark.clinktheme) |
+| NovelKeys | Original loud keycap composition: orchid, bubblegum, turquoise and yellow grouped by row. | [Light](Themes/novelkeys-light.clinktheme) · [Dark](Themes/novelkeys-dark.clinktheme) |
+| Apple | Silver/white translucent glass, neutral controls and regular system lettering. Fine, I’ll ask Apple. | [Light](Themes/apple-light.clinktheme) · [Dark](Themes/apple-dark.clinktheme) |
+
+Higround and Varmilo use original per-key colour compositions, with no bundled image artwork. Character-specific patterns follow their letters when the layout changes; unpainted scripts inherit the base palette. KiiBOOM and Apple use Clink’s native Liquid Glass material, whose final appearance depends on the OS and backdrop. NovelKeys uses an original loud palette rather than reproducing a licensed keycap set.
+
+Theme titles follow the repository’s existing brand + Light/Dark naming convention as user-content metadata. No application UI strings are introduced.
+
+These themes are unofficial interpretations and are not affiliated with or endorsed by any of the named brands.
+
+See the [light/dark palette sheets and validation notes](docs/brand-review.md) for the 25 new pairs.
 
 The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
 
