@@ -237,7 +237,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 25,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "Logitech G Light",
   "specialKeyFill": {

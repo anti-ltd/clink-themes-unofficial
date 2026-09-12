@@ -237,7 +237,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 14,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "ROG Dark",
   "specialKeyFill": {

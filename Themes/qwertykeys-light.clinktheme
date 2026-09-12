@@ -187,7 +187,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 40,
+  "mechanicalInnerRadius": 48,
   "mechanicalShowEdges": true,
   "name": "Qwertykeys Light",
   "specialKeyFill": {

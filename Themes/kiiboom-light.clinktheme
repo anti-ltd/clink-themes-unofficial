@@ -89,7 +89,7 @@
         "r": 0.9607843137254902,
         "g": 0.9372549019607843,
         "b": 1.0,
-        "a": 0.34
+        "a": 1
       },
       "text": {
         "r": 0.12941176470588237,
@@ -117,7 +117,7 @@
     "r": 0.9607843137254902,
     "g": 0.9372549019607843,
     "b": 1.0,
-    "a": 0.34
+    "a": 1
   },
   "keyFontWeight": "medium",
   "keyPaint": {
@@ -152,7 +152,7 @@
         "r": 0.7176470588235294,
         "g": 0.8627450980392157,
         "b": 0.9137254901960784,
-        "a": 0.28
+        "a": 1
       },
       "text": {
         "r": 0.12941176470588237,
@@ -180,13 +180,13 @@
     "b": 0.20784313725490197,
     "a": 1
   },
-  "material": "liquidGlass",
+  "material": "3d",
   "name": "KiiBOOM Light",
   "specialKeyFill": {
     "r": 0.7176470588235294,
     "g": 0.8627450980392157,
     "b": 0.9137254901960784,
-    "a": 0.28
+    "a": 1
   },
   "specialKeyText": {
     "r": 0.12941176470588237,
@@ -195,9 +195,6 @@
     "a": 1
   },
   "keyFontDesign": "default",
-  "glassVariant": "clear",
-  "glassInteractive": true,
-  "glassTintStrength": 0.65,
   "backgroundGradient": {
     "type": "linear",
     "rotation": 135,
@@ -231,28 +228,7 @@
       }
     ]
   },
-  "keyGradient": {
-    "type": "linear",
-    "rotation": 115,
-    "stops": [
-      {
-        "color": {
-          "r": 0.9647058823529412,
-          "g": 0.9411764705882353,
-          "b": 1.0,
-          "a": 0.3
-        },
-        "position": 0.0
-      },
-      {
-        "color": {
-          "r": 0.803921568627451,
-          "g": 0.9254901960784314,
-          "b": 0.9490196078431372,
-          "a": 0.3
-        },
-        "position": 1.0
-      }
-    ]
-  }
+  "threeDVariant": "mechanical",
+  "mechanicalInnerRadius": 46,
+  "mechanicalShowEdges": true
 }

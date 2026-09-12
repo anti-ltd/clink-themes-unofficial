@@ -89,7 +89,7 @@
         "r": 0.3176470588235294,
         "g": 0.25098039215686274,
         "b": 0.43529411764705883,
-        "a": 0.25
+        "a": 1
       },
       "text": {
         "r": 0.9686274509803922,
@@ -117,7 +117,7 @@
     "r": 0.3176470588235294,
     "g": 0.25098039215686274,
     "b": 0.43529411764705883,
-    "a": 0.25
+    "a": 1
   },
   "keyFontWeight": "medium",
   "keyPaint": {
@@ -152,7 +152,7 @@
         "r": 0.1411764705882353,
         "g": 0.28627450980392155,
         "b": 0.34509803921568627,
-        "a": 0.28
+        "a": 1
       },
       "text": {
         "r": 0.9686274509803922,
@@ -180,13 +180,13 @@
     "b": 1.0,
     "a": 1
   },
-  "material": "liquidGlass",
+  "material": "3d",
   "name": "KiiBOOM Dark",
   "specialKeyFill": {
     "r": 0.1411764705882353,
     "g": 0.28627450980392155,
     "b": 0.34509803921568627,
-    "a": 0.28
+    "a": 1
   },
   "specialKeyText": {
     "r": 0.9686274509803922,
@@ -195,9 +195,6 @@
     "a": 1
   },
   "keyFontDesign": "default",
-  "glassVariant": "clear",
-  "glassInteractive": true,
-  "glassTintStrength": 0.65,
   "backgroundGradient": {
     "type": "linear",
     "rotation": 135,
@@ -231,28 +228,7 @@
       }
     ]
   },
-  "keyGradient": {
-    "type": "linear",
-    "rotation": 115,
-    "stops": [
-      {
-        "color": {
-          "r": 0.2549019607843137,
-          "g": 0.19215686274509805,
-          "b": 0.3686274509803922,
-          "a": 0.3
-        },
-        "position": 0.0
-      },
-      {
-        "color": {
-          "r": 0.09803921568627451,
-          "g": 0.2784313725490196,
-          "b": 0.3254901960784314,
-          "a": 0.3
-        },
-        "position": 1.0
-      }
-    ]
-  }
+  "threeDVariant": "mechanical",
+  "mechanicalInnerRadius": 46,
+  "mechanicalShowEdges": true
 }

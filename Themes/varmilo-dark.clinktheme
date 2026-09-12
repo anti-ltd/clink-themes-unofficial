@@ -419,7 +419,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 48,
+  "mechanicalInnerRadius": 50,
   "mechanicalShowEdges": true,
   "name": "Varmilo Dark",
   "specialKeyFill": {

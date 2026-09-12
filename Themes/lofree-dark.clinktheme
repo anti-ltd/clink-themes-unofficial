@@ -145,7 +145,7 @@
     "r": 0.9176470588235294
   },
   "material": "3d",
-  "mechanicalInnerRadius": 46,
+  "mechanicalInnerRadius": 50,
   "mechanicalShowEdges": true,
   "name": "Lofree Dark",
   "specialKeyFill": {

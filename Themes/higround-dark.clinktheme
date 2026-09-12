@@ -673,7 +673,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 20,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "Higround Dark",
   "specialKeyFill": {

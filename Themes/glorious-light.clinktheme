@@ -181,7 +181,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 38,
+  "mechanicalInnerRadius": 46,
   "mechanicalShowEdges": true,
   "name": "Glorious Light",
   "specialKeyFill": {

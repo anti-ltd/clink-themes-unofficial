@@ -393,7 +393,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 46,
+  "mechanicalInnerRadius": 50,
   "mechanicalShowEdges": true,
   "name": "MelGeek Dark",
   "specialKeyFill": {

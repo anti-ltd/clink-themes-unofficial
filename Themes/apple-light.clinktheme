@@ -89,7 +89,7 @@
         "r": 1.0,
         "g": 1.0,
         "b": 1.0,
-        "a": 0.34
+        "a": 1
       },
       "text": {
         "r": 0.12941176470588237,
@@ -117,7 +117,7 @@
     "r": 1.0,
     "g": 1.0,
     "b": 1.0,
-    "a": 0.34
+    "a": 1
   },
   "keyFontWeight": "regular",
   "keyPaint": {
@@ -152,7 +152,7 @@
         "r": 0.8862745098039215,
         "g": 0.8980392156862745,
         "b": 0.9176470588235294,
-        "a": 0.28
+        "a": 1
       },
       "text": {
         "r": 0.12941176470588237,
@@ -180,13 +180,13 @@
     "b": 0.20784313725490197,
     "a": 1
   },
-  "material": "liquidGlass",
+  "material": "3d",
   "name": "Apple Light",
   "specialKeyFill": {
     "r": 0.8862745098039215,
     "g": 0.8980392156862745,
     "b": 0.9176470588235294,
-    "a": 0.28
+    "a": 1
   },
   "specialKeyText": {
     "r": 0.12941176470588237,
@@ -195,9 +195,6 @@
     "a": 1
   },
   "keyFontDesign": "default",
-  "glassVariant": "regular",
-  "glassInteractive": true,
-  "glassTintStrength": 0.8,
   "backgroundGradient": {
     "type": "linear",
     "rotation": 135,
@@ -221,5 +218,8 @@
         "position": 1.0
       }
     ]
-  }
+  },
+  "threeDVariant": "mechanical",
+  "mechanicalInnerRadius": 46,
+  "mechanicalShowEdges": true
 }

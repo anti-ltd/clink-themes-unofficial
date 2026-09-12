@@ -242,7 +242,7 @@
     "b": 0.9921568627450981,
     "a": 1
   },
-  "material": "metal",
+  "material": "3d",
   "name": "Angry Miao Dark",
   "specialKeyFill": {
     "r": 0.09411764705882353,
@@ -256,5 +256,8 @@
     "b": 0.9921568627450981,
     "a": 1
   },
-  "keyFontDesign": "monospaced"
+  "keyFontDesign": "monospaced",
+  "threeDVariant": "mechanical",
+  "mechanicalInnerRadius": 46,
+  "mechanicalShowEdges": true
 }

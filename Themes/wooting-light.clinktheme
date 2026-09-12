@@ -145,7 +145,7 @@
     "r": 0.16470588235294117
   },
   "material": "3d",
-  "mechanicalInnerRadius": 32,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "Wooting Light",
   "specialKeyFill": {

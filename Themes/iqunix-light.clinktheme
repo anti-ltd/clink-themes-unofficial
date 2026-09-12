@@ -187,7 +187,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 24,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "IQUNIX Light",
   "specialKeyFill": {

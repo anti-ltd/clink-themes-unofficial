@@ -89,7 +89,7 @@
         "r": 0.2823529411764706,
         "g": 0.2980392156862745,
         "b": 0.33725490196078434,
-        "a": 0.25
+        "a": 1
       },
       "text": {
         "r": 0.9686274509803922,
@@ -117,7 +117,7 @@
     "r": 0.2823529411764706,
     "g": 0.2980392156862745,
     "b": 0.33725490196078434,
-    "a": 0.25
+    "a": 1
   },
   "keyFontWeight": "regular",
   "keyPaint": {
@@ -152,7 +152,7 @@
         "r": 0.19607843137254902,
         "g": 0.21176470588235294,
         "b": 0.25098039215686274,
-        "a": 0.28
+        "a": 1
       },
       "text": {
         "r": 0.9686274509803922,
@@ -180,13 +180,13 @@
     "b": 1.0,
     "a": 1
   },
-  "material": "liquidGlass",
+  "material": "3d",
   "name": "Apple Dark",
   "specialKeyFill": {
     "r": 0.19607843137254902,
     "g": 0.21176470588235294,
     "b": 0.25098039215686274,
-    "a": 0.28
+    "a": 1
   },
   "specialKeyText": {
     "r": 0.9686274509803922,
@@ -195,9 +195,6 @@
     "a": 1
   },
   "keyFontDesign": "default",
-  "glassVariant": "regular",
-  "glassInteractive": true,
-  "glassTintStrength": 0.8,
   "backgroundGradient": {
     "type": "linear",
     "rotation": 135,
@@ -221,5 +218,8 @@
         "position": 1.0
       }
     ]
-  }
+  },
+  "threeDVariant": "mechanical",
+  "mechanicalInnerRadius": 46,
+  "mechanicalShowEdges": true
 }

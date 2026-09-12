@@ -119,7 +119,7 @@
     "r": 0.9294117647058824
   },
   "material": "3d",
-  "mechanicalInnerRadius": 30,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "NuPhy Dark",
   "specialKeyFill": {

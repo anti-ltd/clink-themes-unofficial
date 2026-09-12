@@ -168,7 +168,7 @@
     "b": 0.9921568627450981,
     "a": 1
   },
-  "material": "metal",
+  "material": "3d",
   "name": "Mode Dark",
   "specialKeyFill": {
     "r": 0.1607843137254902,
@@ -182,5 +182,8 @@
     "b": 0.9921568627450981,
     "a": 1
   },
-  "keyFontDesign": "default"
+  "keyFontDesign": "default",
+  "threeDVariant": "mechanical",
+  "mechanicalInnerRadius": 46,
+  "mechanicalShowEdges": true
 }

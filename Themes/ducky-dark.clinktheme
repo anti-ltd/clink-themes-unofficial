@@ -181,7 +181,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 34,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "Ducky Dark",
   "specialKeyFill": {

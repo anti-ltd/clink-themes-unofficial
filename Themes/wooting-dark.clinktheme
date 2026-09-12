@@ -145,7 +145,7 @@
     "r": 0.7843137254901961
   },
   "material": "3d",
-  "mechanicalInnerRadius": 32,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "Wooting Dark",
   "specialKeyFill": {

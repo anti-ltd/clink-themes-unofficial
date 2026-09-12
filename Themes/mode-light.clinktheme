@@ -168,7 +168,7 @@
     "b": 0.12941176470588237,
     "a": 1
   },
-  "material": "metal",
+  "material": "3d",
   "name": "Mode Light",
   "specialKeyFill": {
     "r": 0.2901960784313726,
@@ -182,5 +182,8 @@
     "b": 0.9921568627450981,
     "a": 1
   },
-  "keyFontDesign": "default"
+  "keyFontDesign": "default",
+  "threeDVariant": "mechanical",
+  "mechanicalInnerRadius": 46,
+  "mechanicalShowEdges": true
 }

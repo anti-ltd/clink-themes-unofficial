@@ -181,7 +181,7 @@
     "a": 1
   },
   "material": "3d",
-  "mechanicalInnerRadius": 26,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "SteelSeries Dark",
   "specialKeyFill": {

@@ -119,7 +119,7 @@
     "r": 0.27058823529411763
   },
   "material": "3d",
-  "mechanicalInnerRadius": 30,
+  "mechanicalInnerRadius": 44,
   "mechanicalShowEdges": true,
   "name": "NuPhy Light",
   "specialKeyFill": {
