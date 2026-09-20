@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anti-ltd/clink-language-packs/main/icon-1024.png" width="96" alt="Clink app icon">
+  <img src="README-assets/clink-icon.png" width="96" alt="Clink app icon">
 </p>
 
 <h1 align="center">Clink themes — unofficial</h1>
@@ -12,76 +12,47 @@ Themes change the keyboard's colours, materials, type treatment, and gradients. 
 
 [Language packs](https://github.com/anti-ltd/clink-language-packs) · [Layouts](https://github.com/anti-ltd/clink-layouts) · [Profiles](https://github.com/anti-ltd/clink-profiles) · [Themes](https://github.com/anti-ltd/clink-themes) · [Panels](https://github.com/anti-ltd/clink-panels) · [Actions](https://github.com/anti-ltd/clink-actions) · [Fonts](https://github.com/anti-ltd/clink-fonts) · [Sounds](https://github.com/anti-ltd/clink-sounds)
 
+<!-- theme-gallery:start -->
 ## Included themes
 
-This unofficial repository includes:
+60 unofficial themes, with light and dark versions shown together. Select a name to open its theme file, or a preview to see it at full size. These themes are inspired by the named brands and are not affiliated with or endorsed by them.
 
-- **NuPhy Light**, a light Mechanical 3D theme with warm white caps and grey modifiers.
-- **NuPhy Dark**, a dark Mechanical 3D theme with charcoal caps and dark modifiers.
-- **Keychron Light**, a Mechanical 3D theme with soft grey caps, a silver-grey case, neutral light-grey modifiers, and coral-red accent keys.
-- **Keychron Dark**, a charcoal Mechanical 3D theme with blue-grey modifiers and coral-red accent keys, inspired by the reference keyboard.
-- **Akko Dark**, a navy Mechanical 3D theme with periwinkle caps, charcoal modifiers, and amber accent keys.
-- **Akko Light**, a cream-cap Mechanical 3D theme with indigo modifiers and amber accent keys.
-- **Lofree Light**, a warm greige retro Mechanical 3D theme with ivory caps, taupe modifiers, and burnt-orange accent keys.
-- **Lofree Dark**, a warm charcoal Mechanical 3D theme with graphite caps, near-black modifiers, and burnt-orange accent keys.
-- **Wooting Light**, a neutral light-grey Mechanical 3D theme with white caps, mid-grey modifiers, and amber accent keys.
-- **Wooting Dark**, a stealth-black Mechanical 3D theme with charcoal caps, near-black modifiers, and amber accent keys.
-
-The NuPhy themes preserve Clink's debug palettes, including the teal plane toggle,
-red Return, yellow spacebar, visible mechanical edges, and active/pressed key colours.
-The Keychron themes use softly rounded sculpted caps, a spacebar matching the letter keys,
-and a coral-red Return. The red plane toggle echoes the reference keyboard's Escape key;
-active modifiers and the backspace press use the same accent.
-The Akko themes use Canvas per-key paint: an amber plane toggle and Return echo the
-reference board's Escape and Enter caps, the globe key takes the arrow cluster's amber
-glyph on a dark cap, and the whole number row is painted in the modifier colour.
-The Lofree themes follow the retro typewriter boards: a greige or charcoal case, sculpted
-warm caps, a spacebar a shade brighter than the letters, and two burnt-orange caps for the
-globe and plane toggle that echo the reference board's orange knobs. Return keeps its cap
-colour and takes an orange glyph, matching the reference board's red Enter arrow.
-The Wooting themes are deliberately monochrome: a neutral case and caps with no warmth,
-softly rounded cap corners, and muted grey legends, so the amber appears only where the reference
-board lights up. The plane toggle takes the amber cap in the Escape position, the globe key
-an amber glyph on a modifier cap, and Return stays in the modifier colour until it is
-pressed, when it and the active modifiers and backspace press all turn amber.
-The collection now contains **30 brands, each with Light and Dark variants (60 themes)**.
-All themes use 3D Mechanical caps with visible edges and soft inner pillow rounding (44–50 on Clink’s 0–50 scale). The remaining pairs are:
-
-| Brand | Design | Variants |
-| --- | --- | --- |
-| Ducky | Navy modifiers, crisp white caps and cyan Escape/Return. | [Light](Themes/ducky-light.clinktheme) · [Dark](Themes/ducky-dark.clinktheme) |
-| HHKB | Minimal warm caps; a single red plane-toggle cap, with neutral active modifiers. | [Light](Themes/hhkb-light.clinktheme) · [Dark](Themes/hhkb-dark.clinktheme) |
-| Logitech G | Graphite modifiers, cyan controls and a restrained blue WASD cluster. | [Light](Themes/logitech-g-light.clinktheme) · [Dark](Themes/logitech-g-dark.clinktheme) |
-| Razer | Matte caps, green Escape/Return and green-tinted WASD. | [Light](Themes/razer-light.clinktheme) · [Dark](Themes/razer-dark.clinktheme) |
-| SteelSeries | Graphite caps and orange controls over a narrow violet/orange case gradient. | [Light](Themes/steelseries-light.clinktheme) · [Dark](Themes/steelseries-dark.clinktheme) |
-| ROG | Softly sculpted caps, red controls and a magenta WASD cluster. | [Light](Themes/rog-light.clinktheme) · [Dark](Themes/rog-dark.clinktheme) |
-| Corsair | Industrial-grey sculpted caps, yellow controls and a dark number row. | [Light](Themes/corsair-light.clinktheme) · [Dark](Themes/corsair-dark.clinktheme) |
-| Glorious | Clean monochrome caps with gold controls and a gold spacebar legend. | [Light](Themes/glorious-light.clinktheme) · [Dark](Themes/glorious-dark.clinktheme) |
-| MelGeek | Cream, orange and blue; alternating number caps and a blue letter island. | [Light](Themes/melgeek-light.clinktheme) · [Dark](Themes/melgeek-dark.clinktheme) |
-| Mode | Warm aluminium-coloured mechanical caps, a charcoal Return and restrained brass legends. | [Light](Themes/mode-light.clinktheme) · [Dark](Themes/mode-dark.clinktheme) |
-| Qwertykeys | Cream and forest green with sage numbers and a sage spacebar. | [Light](Themes/qwertykeys-light.clinktheme) · [Dark](Themes/qwertykeys-dark.clinktheme) |
-| MonsGeek | Dark aluminium, black modifiers and purple controls; sculpted mechanical caps. | [Light](Themes/monsgeek-light.clinktheme) · [Dark](Themes/monsgeek-dark.clinktheme) |
-| Epomaker | Cream caps, pastel teal modifiers, coral controls and a teal number row. | [Light](Themes/epomaker-light.clinktheme) · [Dark](Themes/epomaker-dark.clinktheme) |
-| Drop | Gunmetal caps, cyan/teal controls and a matching dark number row. | [Light](Themes/drop-light.clinktheme) · [Dark](Themes/drop-dark.clinktheme) |
-| Higround | Full per-key acid-lime/teal contour bands across a black foundation; pale bands expand in light mode. | [Light](Themes/higround-light.clinktheme) · [Dark](Themes/higround-dark.clinktheme) |
-| 8BitDo | NES greys, red plane toggle and Return, plus a dark number row and mono legends. | [Light](Themes/8bitdo-light.clinktheme) · [Dark](Themes/8bitdo-dark.clinktheme) |
-| Cooler Master | Black and aubergine with violet controls and a subtle purple case gradient. | [Light](Themes/cooler-master-light.clinktheme) · [Dark](Themes/cooler-master-dark.clinktheme) |
-| Leopold | Traditional beige/grey caps, muted blue controls and grey numbers. | [Light](Themes/leopold-light.clinktheme) · [Dark](Themes/leopold-dark.clinktheme) |
-| Varmilo | Botanical green caps with diagonal sage leaf clusters and scattered pink/lilac petals. | [Light](Themes/varmilo-light.clinktheme) · [Dark](Themes/varmilo-dark.clinktheme) |
-| NIZ | Minimal white and powder blue; cool slate in dark mode with low-key blue controls. | [Light](Themes/niz-light.clinktheme) · [Dark](Themes/niz-dark.clinktheme) |
-| KiiBOOM | Pale or smoked-purple mechanical caps with cyan modifiers over a luminous gradient. | [Light](Themes/kiiboom-light.clinktheme) · [Dark](Themes/kiiboom-dark.clinktheme) |
-| Angry Miao | Silver-coloured mechanical caps, black modifiers and a neon navigation cluster with cyan detail. | [Light](Themes/angry-miao-light.clinktheme) · [Dark](Themes/angry-miao-dark.clinktheme) |
-| IQUNIX | Aluminium-grey case, cream caps, orange controls and grey number caps. | [Light](Themes/iqunix-light.clinktheme) · [Dark](Themes/iqunix-dark.clinktheme) |
-| NovelKeys | Original loud keycap composition: orchid, bubblegum, turquoise and yellow grouped by row. | [Light](Themes/novelkeys-light.clinktheme) · [Dark](Themes/novelkeys-dark.clinktheme) |
-| Apple | Silver/white mechanical caps, neutral controls and regular system lettering. Fine, I’ll ask Apple. | [Light](Themes/apple-light.clinktheme) · [Dark](Themes/apple-dark.clinktheme) |
-
-Higround and Varmilo use original per-key colour compositions, with no bundled image artwork. Character-specific patterns follow their letters when the layout changes; unpainted scripts inherit the base palette. NovelKeys uses an original loud palette rather than reproducing a licensed keycap set.
-
-Theme titles follow the repository’s existing brand + Light/Dark naming convention as user-content metadata. No application UI strings are introduced.
-
-These themes are unofficial interpretations and are not affiliated with or endorsed by any of the named brands.
+| Light | Dark |
+| --- | --- |
+| <a href="Themes/8bitdo-light.clinktheme"><strong>8BitDo Light</strong></a><br><a href="README-assets/previews/8bitdo-light.png"><img src="README-assets/previews/8bitdo-light.png" width="400" alt="8BitDo Light keyboard preview"></a> | <a href="Themes/8bitdo-dark.clinktheme"><strong>8BitDo Dark</strong></a><br><a href="README-assets/previews/8bitdo-dark.png"><img src="README-assets/previews/8bitdo-dark.png" width="400" alt="8BitDo Dark keyboard preview"></a> |
+| <a href="Themes/akko-light.clinktheme"><strong>Akko Light</strong></a><br><a href="README-assets/previews/akko-light.png"><img src="README-assets/previews/akko-light.png" width="400" alt="Akko Light keyboard preview"></a> | <a href="Themes/akko-dark.clinktheme"><strong>Akko Dark</strong></a><br><a href="README-assets/previews/akko-dark.png"><img src="README-assets/previews/akko-dark.png" width="400" alt="Akko Dark keyboard preview"></a> |
+| <a href="Themes/angry-miao-light.clinktheme"><strong>Angry Miao Light</strong></a><br><a href="README-assets/previews/angry-miao-light.png"><img src="README-assets/previews/angry-miao-light.png" width="400" alt="Angry Miao Light keyboard preview"></a> | <a href="Themes/angry-miao-dark.clinktheme"><strong>Angry Miao Dark</strong></a><br><a href="README-assets/previews/angry-miao-dark.png"><img src="README-assets/previews/angry-miao-dark.png" width="400" alt="Angry Miao Dark keyboard preview"></a> |
+| <a href="Themes/apple-light.clinktheme"><strong>Apple Light</strong></a><br><a href="README-assets/previews/apple-light.png"><img src="README-assets/previews/apple-light.png" width="400" alt="Apple Light keyboard preview"></a> | <a href="Themes/apple-dark.clinktheme"><strong>Apple Dark</strong></a><br><a href="README-assets/previews/apple-dark.png"><img src="README-assets/previews/apple-dark.png" width="400" alt="Apple Dark keyboard preview"></a> |
+| <a href="Themes/cooler-master-light.clinktheme"><strong>Cooler Master Light</strong></a><br><a href="README-assets/previews/cooler-master-light.png"><img src="README-assets/previews/cooler-master-light.png" width="400" alt="Cooler Master Light keyboard preview"></a> | <a href="Themes/cooler-master-dark.clinktheme"><strong>Cooler Master Dark</strong></a><br><a href="README-assets/previews/cooler-master-dark.png"><img src="README-assets/previews/cooler-master-dark.png" width="400" alt="Cooler Master Dark keyboard preview"></a> |
+| <a href="Themes/corsair-light.clinktheme"><strong>Corsair Light</strong></a><br><a href="README-assets/previews/corsair-light.png"><img src="README-assets/previews/corsair-light.png" width="400" alt="Corsair Light keyboard preview"></a> | <a href="Themes/corsair-dark.clinktheme"><strong>Corsair Dark</strong></a><br><a href="README-assets/previews/corsair-dark.png"><img src="README-assets/previews/corsair-dark.png" width="400" alt="Corsair Dark keyboard preview"></a> |
+| <a href="Themes/drop-light.clinktheme"><strong>Drop Light</strong></a><br><a href="README-assets/previews/drop-light.png"><img src="README-assets/previews/drop-light.png" width="400" alt="Drop Light keyboard preview"></a> | <a href="Themes/drop-dark.clinktheme"><strong>Drop Dark</strong></a><br><a href="README-assets/previews/drop-dark.png"><img src="README-assets/previews/drop-dark.png" width="400" alt="Drop Dark keyboard preview"></a> |
+| <a href="Themes/ducky-light.clinktheme"><strong>Ducky Light</strong></a><br><a href="README-assets/previews/ducky-light.png"><img src="README-assets/previews/ducky-light.png" width="400" alt="Ducky Light keyboard preview"></a> | <a href="Themes/ducky-dark.clinktheme"><strong>Ducky Dark</strong></a><br><a href="README-assets/previews/ducky-dark.png"><img src="README-assets/previews/ducky-dark.png" width="400" alt="Ducky Dark keyboard preview"></a> |
+| <a href="Themes/epomaker-light.clinktheme"><strong>Epomaker Light</strong></a><br><a href="README-assets/previews/epomaker-light.png"><img src="README-assets/previews/epomaker-light.png" width="400" alt="Epomaker Light keyboard preview"></a> | <a href="Themes/epomaker-dark.clinktheme"><strong>Epomaker Dark</strong></a><br><a href="README-assets/previews/epomaker-dark.png"><img src="README-assets/previews/epomaker-dark.png" width="400" alt="Epomaker Dark keyboard preview"></a> |
+| <a href="Themes/glorious-light.clinktheme"><strong>Glorious Light</strong></a><br><a href="README-assets/previews/glorious-light.png"><img src="README-assets/previews/glorious-light.png" width="400" alt="Glorious Light keyboard preview"></a> | <a href="Themes/glorious-dark.clinktheme"><strong>Glorious Dark</strong></a><br><a href="README-assets/previews/glorious-dark.png"><img src="README-assets/previews/glorious-dark.png" width="400" alt="Glorious Dark keyboard preview"></a> |
+| <a href="Themes/hhkb-light.clinktheme"><strong>HHKB Light</strong></a><br><a href="README-assets/previews/hhkb-light.png"><img src="README-assets/previews/hhkb-light.png" width="400" alt="HHKB Light keyboard preview"></a> | <a href="Themes/hhkb-dark.clinktheme"><strong>HHKB Dark</strong></a><br><a href="README-assets/previews/hhkb-dark.png"><img src="README-assets/previews/hhkb-dark.png" width="400" alt="HHKB Dark keyboard preview"></a> |
+| <a href="Themes/higround-light.clinktheme"><strong>Higround Light</strong></a><br><a href="README-assets/previews/higround-light.png"><img src="README-assets/previews/higround-light.png" width="400" alt="Higround Light keyboard preview"></a> | <a href="Themes/higround-dark.clinktheme"><strong>Higround Dark</strong></a><br><a href="README-assets/previews/higround-dark.png"><img src="README-assets/previews/higround-dark.png" width="400" alt="Higround Dark keyboard preview"></a> |
+| <a href="Themes/iqunix-light.clinktheme"><strong>IQUNIX Light</strong></a><br><a href="README-assets/previews/iqunix-light.png"><img src="README-assets/previews/iqunix-light.png" width="400" alt="IQUNIX Light keyboard preview"></a> | <a href="Themes/iqunix-dark.clinktheme"><strong>IQUNIX Dark</strong></a><br><a href="README-assets/previews/iqunix-dark.png"><img src="README-assets/previews/iqunix-dark.png" width="400" alt="IQUNIX Dark keyboard preview"></a> |
+| <a href="Themes/keychron-light.clinktheme"><strong>Keychron Light</strong></a><br><a href="README-assets/previews/keychron-light.png"><img src="README-assets/previews/keychron-light.png" width="400" alt="Keychron Light keyboard preview"></a> | <a href="Themes/keychron-dark.clinktheme"><strong>Keychron Dark</strong></a><br><a href="README-assets/previews/keychron-dark.png"><img src="README-assets/previews/keychron-dark.png" width="400" alt="Keychron Dark keyboard preview"></a> |
+| <a href="Themes/kiiboom-light.clinktheme"><strong>KiiBOOM Light</strong></a><br><a href="README-assets/previews/kiiboom-light.png"><img src="README-assets/previews/kiiboom-light.png" width="400" alt="KiiBOOM Light keyboard preview"></a> | <a href="Themes/kiiboom-dark.clinktheme"><strong>KiiBOOM Dark</strong></a><br><a href="README-assets/previews/kiiboom-dark.png"><img src="README-assets/previews/kiiboom-dark.png" width="400" alt="KiiBOOM Dark keyboard preview"></a> |
+| <a href="Themes/leopold-light.clinktheme"><strong>Leopold Light</strong></a><br><a href="README-assets/previews/leopold-light.png"><img src="README-assets/previews/leopold-light.png" width="400" alt="Leopold Light keyboard preview"></a> | <a href="Themes/leopold-dark.clinktheme"><strong>Leopold Dark</strong></a><br><a href="README-assets/previews/leopold-dark.png"><img src="README-assets/previews/leopold-dark.png" width="400" alt="Leopold Dark keyboard preview"></a> |
+| <a href="Themes/lofree-light.clinktheme"><strong>Lofree Light</strong></a><br><a href="README-assets/previews/lofree-light.png"><img src="README-assets/previews/lofree-light.png" width="400" alt="Lofree Light keyboard preview"></a> | <a href="Themes/lofree-dark.clinktheme"><strong>Lofree Dark</strong></a><br><a href="README-assets/previews/lofree-dark.png"><img src="README-assets/previews/lofree-dark.png" width="400" alt="Lofree Dark keyboard preview"></a> |
+| <a href="Themes/logitech-g-light.clinktheme"><strong>Logitech G Light</strong></a><br><a href="README-assets/previews/logitech-g-light.png"><img src="README-assets/previews/logitech-g-light.png" width="400" alt="Logitech G Light keyboard preview"></a> | <a href="Themes/logitech-g-dark.clinktheme"><strong>Logitech G Dark</strong></a><br><a href="README-assets/previews/logitech-g-dark.png"><img src="README-assets/previews/logitech-g-dark.png" width="400" alt="Logitech G Dark keyboard preview"></a> |
+| <a href="Themes/melgeek-light.clinktheme"><strong>MelGeek Light</strong></a><br><a href="README-assets/previews/melgeek-light.png"><img src="README-assets/previews/melgeek-light.png" width="400" alt="MelGeek Light keyboard preview"></a> | <a href="Themes/melgeek-dark.clinktheme"><strong>MelGeek Dark</strong></a><br><a href="README-assets/previews/melgeek-dark.png"><img src="README-assets/previews/melgeek-dark.png" width="400" alt="MelGeek Dark keyboard preview"></a> |
+| <a href="Themes/mode-light.clinktheme"><strong>Mode Light</strong></a><br><a href="README-assets/previews/mode-light.png"><img src="README-assets/previews/mode-light.png" width="400" alt="Mode Light keyboard preview"></a> | <a href="Themes/mode-dark.clinktheme"><strong>Mode Dark</strong></a><br><a href="README-assets/previews/mode-dark.png"><img src="README-assets/previews/mode-dark.png" width="400" alt="Mode Dark keyboard preview"></a> |
+| <a href="Themes/monsgeek-light.clinktheme"><strong>MonsGeek Light</strong></a><br><a href="README-assets/previews/monsgeek-light.png"><img src="README-assets/previews/monsgeek-light.png" width="400" alt="MonsGeek Light keyboard preview"></a> | <a href="Themes/monsgeek-dark.clinktheme"><strong>MonsGeek Dark</strong></a><br><a href="README-assets/previews/monsgeek-dark.png"><img src="README-assets/previews/monsgeek-dark.png" width="400" alt="MonsGeek Dark keyboard preview"></a> |
+| <a href="Themes/niz-light.clinktheme"><strong>NIZ Light</strong></a><br><a href="README-assets/previews/niz-light.png"><img src="README-assets/previews/niz-light.png" width="400" alt="NIZ Light keyboard preview"></a> | <a href="Themes/niz-dark.clinktheme"><strong>NIZ Dark</strong></a><br><a href="README-assets/previews/niz-dark.png"><img src="README-assets/previews/niz-dark.png" width="400" alt="NIZ Dark keyboard preview"></a> |
+| <a href="Themes/novelkeys-light.clinktheme"><strong>NovelKeys Light</strong></a><br><a href="README-assets/previews/novelkeys-light.png"><img src="README-assets/previews/novelkeys-light.png" width="400" alt="NovelKeys Light keyboard preview"></a> | <a href="Themes/novelkeys-dark.clinktheme"><strong>NovelKeys Dark</strong></a><br><a href="README-assets/previews/novelkeys-dark.png"><img src="README-assets/previews/novelkeys-dark.png" width="400" alt="NovelKeys Dark keyboard preview"></a> |
+| <a href="Themes/nuphy-light.clinktheme"><strong>NuPhy Light</strong></a><br><a href="README-assets/previews/nuphy-light.png"><img src="README-assets/previews/nuphy-light.png" width="400" alt="NuPhy Light keyboard preview"></a> | <a href="Themes/nuphy-dark.clinktheme"><strong>NuPhy Dark</strong></a><br><a href="README-assets/previews/nuphy-dark.png"><img src="README-assets/previews/nuphy-dark.png" width="400" alt="NuPhy Dark keyboard preview"></a> |
+| <a href="Themes/qwertykeys-light.clinktheme"><strong>Qwertykeys Light</strong></a><br><a href="README-assets/previews/qwertykeys-light.png"><img src="README-assets/previews/qwertykeys-light.png" width="400" alt="Qwertykeys Light keyboard preview"></a> | <a href="Themes/qwertykeys-dark.clinktheme"><strong>Qwertykeys Dark</strong></a><br><a href="README-assets/previews/qwertykeys-dark.png"><img src="README-assets/previews/qwertykeys-dark.png" width="400" alt="Qwertykeys Dark keyboard preview"></a> |
+| <a href="Themes/razer-light.clinktheme"><strong>Razer Light</strong></a><br><a href="README-assets/previews/razer-light.png"><img src="README-assets/previews/razer-light.png" width="400" alt="Razer Light keyboard preview"></a> | <a href="Themes/razer-dark.clinktheme"><strong>Razer Dark</strong></a><br><a href="README-assets/previews/razer-dark.png"><img src="README-assets/previews/razer-dark.png" width="400" alt="Razer Dark keyboard preview"></a> |
+| <a href="Themes/rog-light.clinktheme"><strong>ROG Light</strong></a><br><a href="README-assets/previews/rog-light.png"><img src="README-assets/previews/rog-light.png" width="400" alt="ROG Light keyboard preview"></a> | <a href="Themes/rog-dark.clinktheme"><strong>ROG Dark</strong></a><br><a href="README-assets/previews/rog-dark.png"><img src="README-assets/previews/rog-dark.png" width="400" alt="ROG Dark keyboard preview"></a> |
+| <a href="Themes/steelseries-light.clinktheme"><strong>SteelSeries Light</strong></a><br><a href="README-assets/previews/steelseries-light.png"><img src="README-assets/previews/steelseries-light.png" width="400" alt="SteelSeries Light keyboard preview"></a> | <a href="Themes/steelseries-dark.clinktheme"><strong>SteelSeries Dark</strong></a><br><a href="README-assets/previews/steelseries-dark.png"><img src="README-assets/previews/steelseries-dark.png" width="400" alt="SteelSeries Dark keyboard preview"></a> |
+| <a href="Themes/varmilo-light.clinktheme"><strong>Varmilo Light</strong></a><br><a href="README-assets/previews/varmilo-light.png"><img src="README-assets/previews/varmilo-light.png" width="400" alt="Varmilo Light keyboard preview"></a> | <a href="Themes/varmilo-dark.clinktheme"><strong>Varmilo Dark</strong></a><br><a href="README-assets/previews/varmilo-dark.png"><img src="README-assets/previews/varmilo-dark.png" width="400" alt="Varmilo Dark keyboard preview"></a> |
+| <a href="Themes/wooting-light.clinktheme"><strong>Wooting Light</strong></a><br><a href="README-assets/previews/wooting-light.png"><img src="README-assets/previews/wooting-light.png" width="400" alt="Wooting Light keyboard preview"></a> | <a href="Themes/wooting-dark.clinktheme"><strong>Wooting Dark</strong></a><br><a href="README-assets/previews/wooting-dark.png"><img src="README-assets/previews/wooting-dark.png" width="400" alt="Wooting Dark keyboard preview"></a> |
 
 The complete collection is published under [`Themes/`](Themes). The generated [`manifest.json`](manifest.json) describes every release asset.
+
+<!-- theme-gallery:end -->
 
 ## Make your first theme
 
@@ -141,3 +112,14 @@ with different checksums. Clink still discovers updates through GitHub's
 including the original `latest` tag, while clients may still have their manifests.
 
 Local manifest builds default to `anti-ltd/clink-themes-unofficial`. For a fork, set `GITHUB_REPOSITORY=owner/repository` when running the builder. GitHub Actions uses the actual repository name automatically.
+
+## Refresh the previews
+
+Run `ThemeRepositoryGalleryTests` in the Clink app's simulator test host and export its xcresult attachments, then run:
+
+```sh
+python3 -m pip install Pillow
+python3 tools/update-readme-gallery.py /path/to/exported-attachments
+```
+
+The gallery uses Clink's production keyboard renderer. [`README-assets/preview-manifest.json`](README-assets/preview-manifest.json) records the theme and preview checksums for each capture.
