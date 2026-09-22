@@ -24,17 +24,19 @@ jobs:
         env: { GH_TOKEN: "${{ github.token }}" }
         shell: bash
         run: |
+          shopt -s nullglob
+          assets=(Themes/*.clinktheme manifest.json)
           tag=$(python3 -c 'import json; print(json.load(open("manifest.json"))["version"])')
           if draft=$(gh release view "$tag" --json isDraft --jq .isDraft); then
             if [ "$draft" = true ]; then
               # Resume an interrupted upload while the release is still hidden.
-              gh release upload "$tag" Themes/*.clinktheme manifest.json --clobber
+              gh release upload "$tag" "${assets[@]}" --clobber
               gh release edit "$tag" --draft=false --latest
             else
               gh release edit "$tag" --latest
             fi
           else
-            gh release create "$tag" Themes/*.clinktheme manifest.json \
+            gh release create "$tag" "${assets[@]}" \
               --target "$GITHUB_SHA" --title "Unofficial themes" --draft
             gh release edit "$tag" --draft=false --latest
           fi
