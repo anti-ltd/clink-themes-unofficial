@@ -217,7 +217,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/8bitdo-dark.clinktheme",
         "sha256": "9133bc29959f27b946d578b77d698a11d1b12d5ccb957d828404a470d0b90df7",
         "byteCount": 4539
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "8bitdo-light",
@@ -435,7 +436,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/8bitdo-light.clinktheme",
         "sha256": "06fcb19b0a27d131e6ccb6d995b74a2517b50d2daeb2e39dae7b72302c705f72",
         "byteCount": 4458
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "akko-dark",
@@ -664,7 +666,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/akko-dark.clinktheme",
         "sha256": "d161da02b52020bf8c21a24d04219b00564acbae10200cc337e1e3d7014fa7a0",
         "byteCount": 4640
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "akko-light",
@@ -893,7 +896,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/akko-light.clinktheme",
         "sha256": "a85bc119f94598ba56eb85ee71be7645f1a316a706857ca3f42cf6b9141be7f7",
         "byteCount": 4757
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "angry-miao-dark",
@@ -1167,7 +1171,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/angry-miao-dark.clinktheme",
         "sha256": "e582539f0cfdbe2088de582ce8c166e247329212e7635fd1d46bd5999b62ae53",
         "byteCount": 5593
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "angry-miao-light",
@@ -1441,7 +1446,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/angry-miao-light.clinktheme",
         "sha256": "600aaa941c722772f129cb24dd2587c9cdbb477f58fa52afcf5a7b113f324656",
         "byteCount": 5746
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "apple-dark",
@@ -1677,7 +1683,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/apple-dark.clinktheme",
         "sha256": "4eb8204b0dafe14e720d4e5c96167d25f371ae73955353f5967e640097f37691",
         "byteCount": 4773
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "apple-light",
@@ -1913,7 +1920,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/apple-light.clinktheme",
         "sha256": "441292ff84362688f17a1bd0ae3a2c85b99e6efc04862c316277a79552b805f3",
         "byteCount": 4780
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "cooler-master-dark",
@@ -2158,7 +2166,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/cooler-master-dark.clinktheme",
         "sha256": "1322d25b45eaa1d5176a1a224919380f2d0db6c2387475e941f8b17a0e02d7d1",
         "byteCount": 4953
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "cooler-master-light",
@@ -2403,7 +2412,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/cooler-master-light.clinktheme",
         "sha256": "f3885a88906fea0303197184960b85cbe7ff66a552b0b4fe326bab57766821fc",
         "byteCount": 5075
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "corsair-dark",
@@ -2621,7 +2631,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/corsair-dark.clinktheme",
         "sha256": "2d27e3381b0e9ecbfe00a588117efe3f5a975302470c548a5a8b6aac63e31932",
         "byteCount": 4536
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "corsair-light",
@@ -2839,7 +2850,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/corsair-light.clinktheme",
         "sha256": "5082921a718ae74abd2b9c30ef5c7c89cfd39230c912fd1e6261c944f1ef9901",
         "byteCount": 4515
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "drop-dark",
@@ -3057,7 +3069,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/drop-dark.clinktheme",
         "sha256": "a6e8fe1971b52d321dec5f6999fc927a64482b3c3ac2ea7e3ae3cf5ad4feca65",
         "byteCount": 4528
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "drop-light",
@@ -3275,7 +3288,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/drop-light.clinktheme",
         "sha256": "43e83b5f5631a6e48eb2c1b91dcf3b9183e02d73dbd9535b5a9f687a9aeea282",
         "byteCount": 4527
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "ducky-dark",
@@ -3487,7 +3501,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/ducky-dark.clinktheme",
         "sha256": "b1873720cfb4cbb3e0266683e50486e2af1e77d53309ccd34430f0e2a0b34add",
         "byteCount": 4207
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "ducky-light",
@@ -3699,7 +3714,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/ducky-light.clinktheme",
         "sha256": "bfce0dc905a29308e3cdc5db726a892425e9ce556d995fb264aa81cd894ea1b0",
         "byteCount": 4226
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "epomaker-dark",
@@ -3917,7 +3933,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/epomaker-dark.clinktheme",
         "sha256": "be03871cded7137668dc63d7aed7c8d12852ee34bbe4f88eab6f668b287caa66",
         "byteCount": 4531
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "epomaker-light",
@@ -4135,7 +4152,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/epomaker-light.clinktheme",
         "sha256": "6cb628000705bfd6d7a60d72bc70780dc326caeb1e73944587b9a39292136b24",
         "byteCount": 4540
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "glorious-dark",
@@ -4347,7 +4365,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/glorious-dark.clinktheme",
         "sha256": "22af06464d7617d5e10262eb31ecbfda8d413ee52894e71d36f4c6935848ce68",
         "byteCount": 4402
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "glorious-light",
@@ -4559,7 +4578,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/glorious-light.clinktheme",
         "sha256": "8df19455e08b1ba599b315b0aa8e42b4ef433b1bd7c1c3797fba3531a282f7a9",
         "byteCount": 4327
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "hhkb-dark",
@@ -4777,7 +4797,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/hhkb-dark.clinktheme",
         "sha256": "e0f160c7b387f3ef055b71c24b1a1c58a568c0e31abe00c0dfcaa50fc0131cdf",
         "byteCount": 4520
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "hhkb-light",
@@ -4995,7 +5016,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/hhkb-light.clinktheme",
         "sha256": "7ad6ba83d549af6e56b8e85ae98195c4ebef507c085e16e95008ae07f676deda",
         "byteCount": 4523
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "higround-dark",
@@ -5732,7 +5754,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/higround-dark.clinktheme",
         "sha256": "20a71c82ecd0f1f7da5cd0c31e547ccd70afa15cef34ef9135a6da5635123c35",
         "byteCount": 15566
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "higround-light",
@@ -6469,7 +6492,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/higround-light.clinktheme",
         "sha256": "99b209d5bd55503296f6bc40c4fe6a4e31d3ad2c2966227b0695e36c9b56713d",
         "byteCount": 15520
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "iqunix-dark",
@@ -6687,7 +6711,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/iqunix-dark.clinktheme",
         "sha256": "556a56c41fa8fa758f8525add4b2746d5fb6111f610205bbd06d35411bcdcf6e",
         "byteCount": 4526
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "iqunix-light",
@@ -6905,7 +6930,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/iqunix-light.clinktheme",
         "sha256": "7c9856abaa2b814b878e7ea916837decf5033435beda3f7f2727b1d3d37a5729",
         "byteCount": 4535
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "keychron-dark",
@@ -7054,7 +7080,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/keychron-dark.clinktheme",
         "sha256": "6e349c32d0dc6ab09efc070efa6371fa16476f75347ed44081e9c17a9638bb8e",
         "byteCount": 2690
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "keychron-light",
@@ -7203,7 +7230,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/keychron-light.clinktheme",
         "sha256": "7e44c972c1f13ad4879acecc0d030caf0286d8859a9e91d0bd6d7b276a569e75",
         "byteCount": 2735
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "kiiboom-dark",
@@ -7448,7 +7476,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/kiiboom-dark.clinktheme",
         "sha256": "b7dad8638d220fde274277ec554fb05247a2b987a3489a6c87c39b859e6ca09e",
         "byteCount": 4882
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "kiiboom-light",
@@ -7693,7 +7722,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/kiiboom-light.clinktheme",
         "sha256": "3e5e310d4d532be24c783eb8c38f98f9662f59daeb3e357e6d7eeaaf4a08bc77",
         "byteCount": 4973
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "leopold-dark",
@@ -7911,7 +7941,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/leopold-dark.clinktheme",
         "sha256": "ac1559724a68327ace0e06151753e34ac58a4d0534e5790b1146ad9d89fad9b9",
         "byteCount": 4519
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "leopold-light",
@@ -8129,7 +8160,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/leopold-light.clinktheme",
         "sha256": "f0edf74193ccca35da4dec3aeb593d8c10493325d1ed5d9c17a69c36d149ec65",
         "byteCount": 4383
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "lofree-dark",
@@ -8304,7 +8336,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/lofree-dark.clinktheme",
         "sha256": "57b151a4da3742c5bf1a3065010ecbad7ffc3c6998b158492a62cbf681b46317",
         "byteCount": 3418
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "lofree-light",
@@ -8479,7 +8512,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/lofree-light.clinktheme",
         "sha256": "35b54aed7a6f7eedb9ae97f62b5ee8ad7c3844037aef7634f5d6e54fde937322",
         "byteCount": 3536
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "logitech-g-dark",
@@ -8747,7 +8781,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/logitech-g-dark.clinktheme",
         "sha256": "5731e9584efb3e8ce91b0e0663d6f1feb31b8ac41118e5328bb578cf27e10ed5",
         "byteCount": 5456
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "logitech-g-light",
@@ -9015,7 +9050,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/logitech-g-light.clinktheme",
         "sha256": "7f2e7280ea15073e7e98aef27501f7d9719ea0ad2eebb8addd0b7e724c7a1d3f",
         "byteCount": 5445
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "melgeek-dark",
@@ -9439,7 +9475,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/melgeek-dark.clinktheme",
         "sha256": "745a38e9fb22d560bb7f9156c69cea99622674da050d714b21137f538a457a8f",
         "byteCount": 8789
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "melgeek-light",
@@ -9863,7 +9900,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/melgeek-light.clinktheme",
         "sha256": "875b5233343907b9235dff2d782c611fd9bab030e21ed71dce19a0ce83627a6a",
         "byteCount": 8754
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "mode-dark",
@@ -10063,7 +10101,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/mode-dark.clinktheme",
         "sha256": "7e1b184149fa43167ee09800fc01ce40d1d05e0fa178f2e785e3f81773cf7def",
         "byteCount": 4088
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "mode-light",
@@ -10263,7 +10302,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/mode-light.clinktheme",
         "sha256": "0e8aec7bcc3db200bf0394d0f3a54801d682f9fc246f97f1ebb04ab337c0dd5b",
         "byteCount": 4082
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "monsgeek-dark",
@@ -10475,7 +10515,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/monsgeek-dark.clinktheme",
         "sha256": "81a9c265d42f27c50177eb06893d54923ef6975db5515a5744faf8ef2aca55ad",
         "byteCount": 4260
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "monsgeek-light",
@@ -10687,7 +10728,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/monsgeek-light.clinktheme",
         "sha256": "150fd7cccfa000bfdf609351f4efacf48c03a2bff993e8dd6b43380f0d70e1d0",
         "byteCount": 4352
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "niz-dark",
@@ -10899,7 +10941,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/niz-dark.clinktheme",
         "sha256": "beed12d3a2d39b8299c22a3e4f907c94264e2c3e41e588767aaa43c3bd2c504e",
         "byteCount": 4377
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "niz-light",
@@ -11111,7 +11154,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/niz-light.clinktheme",
         "sha256": "2c76b9a07649159fa50637062d7d7a9509be9244e63969ebc407707d6334bdbb",
         "byteCount": 4297
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "novelkeys-dark",
@@ -11681,7 +11725,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/novelkeys-dark.clinktheme",
         "sha256": "3f09280c2f6e1e17e07d478755bc8f4c2434389d6876a5381410d2dd05663f88",
         "byteCount": 12020
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "novelkeys-light",
@@ -12251,7 +12296,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/novelkeys-light.clinktheme",
         "sha256": "80e9d548fdb3ca15b1a033883512565f74bb06a80ef955729edcad3326951305",
         "byteCount": 12049
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "nuphy-dark",
@@ -12400,7 +12446,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/nuphy-dark.clinktheme",
         "sha256": "0eb4972ea23c442442df353189f97d27b41236d4104159cffc3e94f3998b6359",
         "byteCount": 2976
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "nuphy-light",
@@ -12549,7 +12596,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/nuphy-light.clinktheme",
         "sha256": "e126451ee6f5d352cea808763cccf17a2aa72172a16c6dd9051e9d52facc971f",
         "byteCount": 2814
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "qwertykeys-dark",
@@ -12767,7 +12815,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/qwertykeys-dark.clinktheme",
         "sha256": "fdac69f87fd6b165e626570aa78d5ec564efa20c308733817dff28827439a5ed",
         "byteCount": 4502
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "qwertykeys-light",
@@ -12985,7 +13034,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/qwertykeys-light.clinktheme",
         "sha256": "2fe246a4629acde8b43f52364f516ef50f7a24c1d26a873afc2705aa2ed40bfb",
         "byteCount": 4530
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "razer-dark",
@@ -13253,7 +13303,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/razer-dark.clinktheme",
         "sha256": "7bb7099c48a65d6990e2accbb6bb703daa889bc6e6350e0db4d771beb037d883",
         "byteCount": 5597
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "razer-light",
@@ -13521,7 +13572,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/razer-light.clinktheme",
         "sha256": "58f6e2a5e6fe873f4d8cb807777661c21e6564360f91cb05d3a2a4d123b6fcbc",
         "byteCount": 5601
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "rog-dark",
@@ -13789,7 +13841,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/rog-dark.clinktheme",
         "sha256": "7194a2601e5ebce6b4b5daba71b5d32c91c7eca974638191f99167afe6b570d0",
         "byteCount": 5308
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "rog-light",
@@ -14057,7 +14110,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/rog-light.clinktheme",
         "sha256": "6344ea6857cc922ad94d8ba90684e5bf3bcfe550d470032e3137a7fb549c60e8",
         "byteCount": 5542
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "steelseries-dark",
@@ -14320,7 +14374,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/steelseries-dark.clinktheme",
         "sha256": "234fff589352c1e539acabcdb3a0a3b74fc069cb0cdd4b22c4c40117106e6b15",
         "byteCount": 5333
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "steelseries-light",
@@ -14583,7 +14638,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/steelseries-light.clinktheme",
         "sha256": "6587d0edeada300e547e4ffc88708fe4ba34e4ee8e95da47a20b25c340ca3dec",
         "byteCount": 5460
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "varmilo-dark",
@@ -15033,7 +15089,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/varmilo-dark.clinktheme",
         "sha256": "de76fa59b9827f9551e544c0e98a31256b93a9e070d4caf593345f6754de52a0",
         "byteCount": 9453
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "varmilo-light",
@@ -15483,7 +15540,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/varmilo-light.clinktheme",
         "sha256": "56e1a3ebef5f6e86138d4aba5743809a3887db89e97db69cd2225b964b5cae4e",
         "byteCount": 9473
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "wooting-dark",
@@ -15658,7 +15716,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/wooting-dark.clinktheme",
         "sha256": "57a79a25b9ee1aadd4275e5bbdb22b43a44dce992c26812ce8d5918846376104",
         "byteCount": 3431
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "wooting-light",
@@ -15833,7 +15892,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-unofficial/releases/download/themes-bcda6c9dff4f4cfa5dfaa28196654a4b64076a66ce1e05de7fce1a269f371a3d/wooting-light.clinktheme",
         "sha256": "201548a96233d26537d4f73fd376ae7022b17cc32e9087c3d9f8dfc0d9e9cd29",
         "byteCount": 3443
-      }
+      },
+      "platform": "both"
     }
   ]
 }
